@@ -22,7 +22,11 @@ export const metadata: Metadata = {
   },
   description:
     'Curated date ideas with a full plan — not just "go to dinner." Browse by vibe, budget, or setting. Each card is a complete evening with a flow.',
-  metadataBase: new URL('https://datenight.cards'),
+  metadataBase: new URL(
+    process.env.VERCEL_PROJECT_PRODUCTION_URL
+      ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
+      : 'https://datenight.cards'
+  ),
   openGraph: {
     siteName: 'datenight.cards',
     type: 'website',

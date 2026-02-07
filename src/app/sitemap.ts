@@ -2,7 +2,9 @@ import type { MetadataRoute } from 'next';
 import { getAllDates, getValidCombinedFilters } from '@/lib/dates';
 import { ALL_VIBES, ALL_SETTINGS, ALL_BUDGETS, ALL_TYPES, ALL_SEASONS } from '@/lib/constants';
 
-const BASE_URL = 'https://datenight.cards';
+const BASE_URL = process.env.VERCEL_PROJECT_PRODUCTION_URL
+  ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
+  : 'https://datenight.cards';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date().toISOString();
