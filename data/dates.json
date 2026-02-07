@@ -1,0 +1,6420 @@
+[
+  {
+    "id": "secret-speakeasy-hunt",
+    "name": "Secret Speakeasy Hunt",
+    "heroIcon": "martini",
+    "heroColor": "#8B4513",
+    "vibe": [
+      "adventurous",
+      "romantic",
+      "spontaneous"
+    ],
+    "budget": "$$",
+    "setting": "city",
+    "type": [
+      "first-date",
+      "regular"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#8B4513",
+        "label": "Start",
+        "text": "Research three hidden speakeasies in your city that require passwords or secret entrances. Write down clues for each location but keep the final destination a surprise."
+      },
+      {
+        "icon": "compass",
+        "color": "#A0522D",
+        "label": "Then",
+        "text": "Navigate to the first speakeasy using only your clues, embracing any wrong turns as part of the adventure. Order craft cocktails and share stories about the most interesting bars you've ever discovered."
+      },
+      {
+        "icon": "sparkles",
+        "color": "#CD853F",
+        "label": "End",
+        "text": "Toast to your successful detective work and decide together whether to reveal your other speakeasy locations or save them for future dates. Take a photo with your cocktails to remember the night."
+      }
+    ],
+    "conversation": "If you could design your own secret bar or hideaway, what would make it special and who would you want to share it with?",
+    "likes": 4782,
+    "createdAt": "2026-01-05T14:22:00Z",
+    "featured": true,
+    "resources": [
+      {
+        "label": "Hidden Bar Finder",
+        "url": "https://www.atlasobscura.com/things-to-do/speakeasies",
+        "icon": "map"
+      },
+      {
+        "label": "Speakeasy Etiquette Guide",
+        "url": "https://punchdrink.com/articles/speakeasy-bar-etiquette-guide/",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "id": "sunrise-rooftop-breakfast",
+    "name": "Sunrise Rooftop Breakfast",
+    "heroIcon": "sun",
+    "heroColor": "#FF6B35",
+    "vibe": [
+      "romantic",
+      "spontaneous",
+      "wholesome"
+    ],
+    "budget": "$",
+    "setting": "city",
+    "type": [
+      "anniversary",
+      "regular"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "moon",
+        "color": "#4A5568",
+        "label": "Start",
+        "text": "Set your alarm for before dawn and pack a thermos of coffee, fresh pastries, and fruit in a basket. Find a rooftop parking garage or accessible building with an eastern view."
+      },
+      {
+        "icon": "sun",
+        "color": "#FF6B35",
+        "label": "Then",
+        "text": "Spread out a blanket and watch the city wake up as the sunrise paints the sky. Share your breakfast slowly, noting how the light changes the colors of the buildings around you."
+      },
+      {
+        "icon": "heart",
+        "color": "#FFB347",
+        "label": "End",
+        "text": "Take a golden hour photo together and make a promise about something you'll do before the next sunrise you share. Walk to a nearby diner for a second, more substantial breakfast if you're still hungry."
+      }
+    ],
+    "conversation": "What's a moment in your life that felt like a new beginning, and how did you know things were about to change?",
+    "likes": 6234,
+    "createdAt": "2026-01-08T09:15:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Sunrise Time Calculator",
+        "url": "https://www.timeanddate.com/sun/",
+        "icon": "sun"
+      }
+    ]
+  },
+  {
+    "id": "thrift-store-style-challenge",
+    "name": "Thrift Store Style Challenge",
+    "heroIcon": "sparkles",
+    "heroColor": "#E91E63",
+    "vibe": [
+      "funny",
+      "creative",
+      "spontaneous"
+    ],
+    "budget": "$",
+    "setting": "city",
+    "type": [
+      "first-date",
+      "regular"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "gift",
+        "color": "#E91E63",
+        "label": "Start",
+        "text": "Set a $20 budget per person and head to the wildest thrift store you can find. Challenge each other to find the most outrageous complete outfit for the other person to wear for the rest of the date."
+      },
+      {
+        "icon": "glasses",
+        "color": "#F06292",
+        "label": "Then",
+        "text": "Try on your selected outfits in the dressing room and don't hold back the laughter. Purchase your favorites and actually wear them out to a casual restaurant or coffee shop, fully committing to the look."
+      },
+      {
+        "icon": "camera",
+        "color": "#F48FB1",
+        "label": "End",
+        "text": "Take ridiculous photos throughout the evening and create stories about your new personas. Keep one item from your outfit as a souvenir and promise to wear it on your next anniversary."
+      }
+    ],
+    "conversation": "What's the most embarrassing fashion phase you went through, and what made you think it was a good idea at the time?",
+    "likes": 8456,
+    "createdAt": "2026-01-12T16:40:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Best Thrift Stores by City",
+        "url": "https://www.thegoodtrade.com/features/best-thrift-stores",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "urban-foraging-dinner",
+    "name": "Urban Foraging Dinner",
+    "heroIcon": "flower",
+    "heroColor": "#7CB342",
+    "vibe": [
+      "adventurous",
+      "intellectual",
+      "quirky"
+    ],
+    "budget": "$$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "double-date"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "book",
+        "color": "#7CB342",
+        "label": "Start",
+        "text": "Join a guided urban foraging tour or use a foraging app to identify edible plants in city parks and green spaces. Learn to spot things like dandelions, wild garlic, or edible flowers growing in unexpected places."
+      },
+      {
+        "icon": "flower",
+        "color": "#9CCC65",
+        "label": "Then",
+        "text": "Collect small amounts of what you find (following all local regulations) and take detailed photos of each plant. Research recipes together on your phone that incorporate your discoveries."
+      },
+      {
+        "icon": "utensils",
+        "color": "#AED581",
+        "label": "End",
+        "text": "Head home or to a BYOB restaurant and prepare a meal featuring your foraged ingredients. Even if it's just a garnish, toast to your newfound survival skills and urban wilderness expertise."
+      }
+    ],
+    "conversation": "If you had to survive using only what you could find in nature, what skill do you wish you had learned earlier in life?",
+    "likes": 3289,
+    "createdAt": "2026-01-15T11:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Urban Foraging Guide",
+        "url": "https://www.atlasobscura.com/articles/urban-foraging-guide",
+        "icon": "book"
+      },
+      {
+        "label": "iNaturalist Plant ID App",
+        "url": "https://www.inaturalist.org/",
+        "icon": "flower"
+      }
+    ]
+  },
+  {
+    "id": "midnight-art-museum",
+    "name": "Midnight at the Museum",
+    "heroIcon": "palette",
+    "heroColor": "#6A1B9A",
+    "vibe": [
+      "romantic",
+      "intellectual",
+      "luxe"
+    ],
+    "budget": "$$$",
+    "setting": "city",
+    "type": [
+      "anniversary",
+      "regular"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "ticket",
+        "color": "#6A1B9A",
+        "label": "Start",
+        "text": "Book tickets to a museum's special after-hours event or late-night opening. Dress up as if you're attending a gallery opening, making the evening feel like a glamorous occasion."
+      },
+      {
+        "icon": "palette",
+        "color": "#8E24AA",
+        "label": "Then",
+        "text": "Explore the galleries with fewer crowds, taking time to really discuss pieces that speak to you. Play a game where you each secretly pick your favorite artwork and then try to guess which one the other person chose."
+      },
+      {
+        "icon": "wine",
+        "color": "#AB47BC",
+        "label": "End",
+        "text": "End the night at the museum bar or cafe if available, or find a nearby cocktail lounge. Discuss which artwork you'd steal if you could (hypothetically) and what it would look like in your home."
+      }
+    ],
+    "conversation": "If you could commission any artist, living or dead, to create a piece about your life, what would you want them to capture?",
+    "likes": 5678,
+    "createdAt": "2026-01-18T20:10:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Museum After Hours Events",
+        "url": "https://www.timeout.com/things-to-do/museum-late-nights",
+        "icon": "ticket"
+      }
+    ]
+  },
+  {
+    "id": "food-truck-roulette",
+    "name": "Food Truck Roulette",
+    "heroIcon": "pizza",
+    "heroColor": "#FF5722",
+    "vibe": [
+      "spontaneous",
+      "adventurous",
+      "funny"
+    ],
+    "budget": "$",
+    "setting": "city",
+    "type": [
+      "first-date",
+      "weeknight-quick"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#FF5722",
+        "label": "Start",
+        "text": "Find a food truck gathering or street food area in your city. Create a silly rule for choosing trucks like 'the one with the most creative name' or 'whatever the person in front of us orders.'"
+      },
+      {
+        "icon": "pizza",
+        "color": "#FF6F42",
+        "label": "Then",
+        "text": "Order from three different trucks, getting small portions so you can try variety. Rate each dish out of 10 and create elaborate, ridiculous food critic reviews for each other's benefit."
+      },
+      {
+        "icon": "trophy",
+        "color": "#FF8A65",
+        "label": "End",
+        "text": "Crown a winner and take a photo with the winning food truck. Follow your favorites on social media and make a pact to try a new cuisine together each month."
+      }
+    ],
+    "conversation": "What's the weirdest food combination you secretly love that other people think is gross?",
+    "likes": 7123,
+    "createdAt": "2026-01-22T18:45:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Food Truck Finder",
+        "url": "https://www.roaminghunger.com/",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "street-photography-walk",
+    "name": "Street Photography Walk",
+    "heroIcon": "camera",
+    "heroColor": "#455A64",
+    "vibe": [
+      "creative",
+      "chill",
+      "intellectual"
+    ],
+    "budget": "free",
+    "setting": "city",
+    "type": [
+      "first-date",
+      "regular"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "camera",
+        "color": "#455A64",
+        "label": "Start",
+        "text": "Pick a neighborhood you've never explored and bring just your phones. Set a challenge like 'find beauty in decay' or 'capture strangers' hands' to give your walk a creative focus."
+      },
+      {
+        "icon": "compass",
+        "color": "#546E7A",
+        "label": "Then",
+        "text": "Take turns directing each other to interesting shots, acting as each other's creative director. Don't be afraid to lie on the ground or climb on benches for the perfect angle."
+      },
+      {
+        "icon": "sparkles",
+        "color": "#607D8B",
+        "label": "End",
+        "text": "Find a coffee shop and edit your favorite shots together, discussing what drew you to each image. Create a shared album and pick your top three photos from the day."
+      }
+    ],
+    "conversation": "What's a small, everyday moment that you think is beautiful but most people rush past without noticing?",
+    "likes": 4567,
+    "createdAt": "2026-01-25T13:20:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Street Photography Tips",
+        "url": "https://digital-photography-school.com/street-photography-tips/",
+        "icon": "camera"
+      }
+    ]
+  },
+  {
+    "id": "blanket-fort-cinema",
+    "name": "Blanket Fort Cinema",
+    "heroIcon": "home",
+    "heroColor": "#5D4E37",
+    "vibe": [
+      "nostalgic",
+      "cozy",
+      "wholesome"
+    ],
+    "budget": "free",
+    "setting": "home",
+    "type": [
+      "regular",
+      "rainy-day"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "home",
+        "color": "#5D4E37",
+        "label": "Start",
+        "text": "Gather every pillow, blanket, and cushion in your home. Build an elaborate blanket fort using chairs, couches, and furniture, complete with string lights for ambiance and a laptop or tablet set up inside."
+      },
+      {
+        "icon": "popcorn",
+        "color": "#7D6E57",
+        "label": "Then",
+        "text": "Make popcorn with creative toppings (truffle oil, parmesan, cinnamon sugar) and prepare a candy selection. Queue up movies from your childhood that the other person hasn't seen and share why they were important to you."
+      },
+      {
+        "icon": "heart",
+        "color": "#9D8E77",
+        "label": "End",
+        "text": "Watch at least one film completely snuggled in your fort, taking breaks only for snack refills. Fall asleep in the fort if you want and leave it up for breakfast the next morning."
+      }
+    ],
+    "conversation": "What childhood comfort or ritual do you miss most, and what's stopping you from bringing it back into your adult life?",
+    "likes": 8901,
+    "createdAt": "2026-01-03T10:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Epic Blanket Fort Designs",
+        "url": "https://www.apartmenttherapy.com/how-to-build-a-blanket-fort-36754174",
+        "icon": "home"
+      }
+    ]
+  },
+  {
+    "id": "mystery-recipe-challenge",
+    "name": "Mystery Recipe Challenge",
+    "heroIcon": "utensils",
+    "heroColor": "#D32F2F",
+    "vibe": [
+      "competitive",
+      "funny",
+      "creative"
+    ],
+    "budget": "$",
+    "setting": "home",
+    "type": [
+      "regular",
+      "double-date"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "gift",
+        "color": "#D32F2F",
+        "label": "Start",
+        "text": "Each person secretly picks a recipe in a cuisine the other person isn't familiar with. Shop for ingredients separately, keeping your dish a surprise until you're both in the kitchen."
+      },
+      {
+        "icon": "utensils",
+        "color": "#E53935",
+        "label": "Then",
+        "text": "Cook your dishes simultaneously in the same kitchen, helping each other only when specifically asked. Set a timer and see who finishes first, documenting all the chaos and mistakes along the way."
+      },
+      {
+        "icon": "trophy",
+        "color": "#EF5350",
+        "label": "End",
+        "text": "Present your dishes with elaborate plating and fake restaurant names. Taste and score each other's creations on taste, presentation, and creativity, with the loser doing dishes."
+      }
+    ],
+    "conversation": "What's a skill you pretend to be better at than you actually are, and when did it last backfire on you?",
+    "likes": 6789,
+    "createdAt": "2026-01-07T15:50:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Random Recipe Generator",
+        "url": "https://www.therecipewell.com/random",
+        "icon": "utensils"
+      }
+    ]
+  },
+  {
+    "id": "spa-night-sanctuary",
+    "name": "Spa Night Sanctuary",
+    "heroIcon": "candle",
+    "heroColor": "#9C27B0",
+    "vibe": [
+      "romantic",
+      "sensual",
+      "chill"
+    ],
+    "budget": "$",
+    "setting": "home",
+    "type": [
+      "anniversary",
+      "regular"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "candle",
+        "color": "#9C27B0",
+        "label": "Start",
+        "text": "Transform your bathroom into a spa with candles, essential oils, and a curated playlist of peaceful music. Prepare face masks, scrubs, and warm towels, and dim all the lights in your home."
+      },
+      {
+        "icon": "sparkles",
+        "color": "#AB47BC",
+        "label": "Then",
+        "text": "Take turns giving each other scalp massages, hand massages, and applying face masks. Draw a bath with bath salts and take turns soaking, or share the tub with champagne or tea."
+      },
+      {
+        "icon": "heart",
+        "color": "#BA68C8",
+        "label": "End",
+        "text": "Put on your coziest robes and make herbal tea or hot chocolate. End the evening with gentle stretching or meditation together, staying off your phones completely."
+      }
+    ],
+    "conversation": "When do you feel most at peace with yourself, and what does that feeling tell you about what you need more of in life?",
+    "likes": 7456,
+    "createdAt": "2026-01-11T19:15:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "DIY Spa Recipes",
+        "url": "https://www.wellandgood.com/at-home-spa-day/",
+        "icon": "candle"
+      }
+    ]
+  },
+  {
+    "id": "vinyl-listening-party",
+    "name": "Vinyl Listening Party",
+    "heroIcon": "music",
+    "heroColor": "#1976D2",
+    "vibe": [
+      "intellectual",
+      "nostalgic",
+      "chill"
+    ],
+    "budget": "$",
+    "setting": "home",
+    "type": [
+      "first-date",
+      "regular"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "music",
+        "color": "#1976D2",
+        "label": "Start",
+        "text": "Each person brings three vinyl records (or high-quality digital albums if you don't have a record player) that defined different periods of your life. Don't reveal the significance yet, just set up comfortable seating and good speakers."
+      },
+      {
+        "icon": "headphones",
+        "color": "#2196F3",
+        "label": "Then",
+        "text": "Listen to one full album at a time with no distractions\u2014phones away, conversation minimal. Read liner notes together, study the album art, and let the music play from start to finish as intended."
+      },
+      {
+        "icon": "heart",
+        "color": "#42A5F5",
+        "label": "End",
+        "text": "After each album, share the story of why it mattered to you and what you were going through when you first heard it. Create a collaborative playlist of your favorite tracks from the evening."
+      }
+    ],
+    "conversation": "What song or album can instantly transport you to a specific moment in your past, and do you go there often?",
+    "likes": 5234,
+    "createdAt": "2026-01-14T17:25:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Best Albums to Listen Front-to-Back",
+        "url": "https://www.rollingstone.com/music/music-lists/500-greatest-albums-of-all-time/",
+        "icon": "music"
+      }
+    ]
+  },
+  {
+    "id": "paint-and-sip-together",
+    "name": "Paint & Sip at Home",
+    "heroIcon": "palette",
+    "heroColor": "#FF6F00",
+    "vibe": [
+      "creative",
+      "chill",
+      "romantic"
+    ],
+    "budget": "$",
+    "setting": "home",
+    "type": [
+      "regular",
+      "first-date"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "palette",
+        "color": "#FF6F00",
+        "label": "Start",
+        "text": "Set up a painting station with canvases, acrylic paints, brushes, and protective coverings for your furniture. Open a bottle of wine and queue up a fun tutorial video, or decide to paint each other's portraits."
+      },
+      {
+        "icon": "wine",
+        "color": "#FF8F00",
+        "label": "Then",
+        "text": "Paint together, embracing the imperfections and laughing at the mess. If doing portraits, don't let the other person see their painting until it's finished, and don't take it too seriously."
+      },
+      {
+        "icon": "gift",
+        "color": "#FFB300",
+        "label": "End",
+        "text": "Have a gallery reveal where you present your work with exaggerated artistic commentary. Sign and date each other's paintings and promise to display them somewhere in your home, no matter how terrible they are."
+      }
+    ],
+    "conversation": "If you could be great at any creative skill overnight, what would you choose and what would you create first?",
+    "likes": 6543,
+    "createdAt": "2026-01-19T14:40:00Z",
+    "featured": true,
+    "resources": [
+      {
+        "label": "Easy Painting Tutorials",
+        "url": "https://www.youtube.com/results?search_query=beginner+painting+tutorial",
+        "icon": "palette"
+      }
+    ]
+  },
+  {
+    "id": "stargazing-ritual",
+    "name": "Backyard Stargazing Ritual",
+    "heroIcon": "telescope",
+    "heroColor": "#1A237E",
+    "vibe": [
+      "romantic",
+      "intellectual",
+      "chill"
+    ],
+    "budget": "free",
+    "setting": "outdoor",
+    "type": [
+      "regular",
+      "anniversary"
+    ],
+    "season": [
+      "summer",
+      "fall"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "telescope",
+        "color": "#1A237E",
+        "label": "Start",
+        "text": "Check astronomy apps for meteor showers or visible planets, then set up blankets and pillows in your backyard or balcony. Let your eyes adjust to darkness for 20 minutes before really looking up."
+      },
+      {
+        "icon": "star",
+        "color": "#303F9F",
+        "label": "Then",
+        "text": "Use a stargazing app to identify constellations and planets, taking turns pointing out celestial objects. Make up your own constellation stories based on shapes you see, ignoring the traditional mythology."
+      },
+      {
+        "icon": "heart",
+        "color": "#5C6BC0",
+        "label": "End",
+        "text": "Share what makes you feel small in a good way versus a scary way. Make wishes on any shooting stars you see and write them down to read together next year."
+      }
+    ],
+    "conversation": "If you could know one absolute truth about the universe or your future, which would you choose and why?",
+    "likes": 5890,
+    "createdAt": "2026-01-09T21:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "SkyView Stargazing App",
+        "url": "https://www.terminaleleven.com/skyview/",
+        "icon": "telescope"
+      },
+      {
+        "label": "Meteor Shower Calendar",
+        "url": "https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/",
+        "icon": "star"
+      }
+    ]
+  },
+  {
+    "id": "picnic-poetry-reading",
+    "name": "Picnic Poetry Reading",
+    "heroIcon": "book",
+    "heroColor": "#558B2F",
+    "vibe": [
+      "romantic",
+      "intellectual",
+      "wholesome"
+    ],
+    "budget": "$",
+    "setting": "outdoor",
+    "type": [
+      "first-date",
+      "regular"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "book",
+        "color": "#558B2F",
+        "label": "Start",
+        "text": "Pack a basket with cheese, fruit, wine, and finger foods, plus a favorite poetry book or printed poems. Find a scenic spot in a park, preferably near water or under a tree, and spread out a blanket."
+      },
+      {
+        "icon": "heart",
+        "color": "#689F38",
+        "label": "Then",
+        "text": "Take turns reading poems aloud to each other, choosing ones that resonate or confuse you. Don't explain why you picked each poem immediately\u2014let the other person guess what it meant to you."
+      },
+      {
+        "icon": "flower",
+        "color": "#7CB342",
+        "label": "End",
+        "text": "Try writing a collaborative poem together, alternating lines without planning where it will go. Press a flower or leaf from your picnic spot into your poetry book as a bookmark."
+      }
+    ],
+    "conversation": "What emotion or experience do you wish you could describe better, but words always seem to fall short?",
+    "likes": 4123,
+    "createdAt": "2026-01-16T12:15:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Poetry Foundation Daily Poems",
+        "url": "https://www.poetryfoundation.org/poems/poem-of-the-day",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "id": "bike-adventure-unknown",
+    "name": "Bike Adventure to the Unknown",
+    "heroIcon": "bike",
+    "heroColor": "#00897B",
+    "vibe": [
+      "adventurous",
+      "active",
+      "spontaneous"
+    ],
+    "budget": "free",
+    "setting": "outdoor",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "bike",
+        "color": "#00897B",
+        "label": "Start",
+        "text": "Pack water and snacks in a backpack and bring your bikes to an area of town you've never explored. Make a rule that you have to turn at every third intersection or flip a coin to decide your direction."
+      },
+      {
+        "icon": "compass",
+        "color": "#26A69A",
+        "label": "Then",
+        "text": "Follow your random route until you find something interesting\u2014a weird statue, a hidden garden, an unexpected view. Take a break there and document your discovery with photos and GPS coordinates."
+      },
+      {
+        "icon": "map",
+        "color": "#4DB6AC",
+        "label": "End",
+        "text": "Use your phone to navigate back home via a completely different route. Stop for ice cream or a drink if you pass somewhere appealing, treating it as your reward for your adventurous spirits."
+      }
+    ],
+    "conversation": "When was the last time you got lost and enjoyed it instead of panicking, and what did you discover?",
+    "likes": 5678,
+    "createdAt": "2026-01-20T16:55:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Local Bike Trail Maps",
+        "url": "https://www.traillink.com/",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "golden-hour-photoshoot",
+    "name": "Golden Hour Photoshoot",
+    "heroIcon": "camera",
+    "heroColor": "#F57C00",
+    "vibe": [
+      "romantic",
+      "creative",
+      "luxe"
+    ],
+    "budget": "$",
+    "setting": "outdoor",
+    "type": [
+      "anniversary",
+      "regular"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "1-2hrs",
+    "steps": [
+      {
+        "icon": "sun",
+        "color": "#F57C00",
+        "label": "Start",
+        "text": "Plan to arrive at a scenic outdoor location 45 minutes before sunset. Wear coordinating colors that complement the golden light and bring props like a blanket, flowers, or something meaningful to you both."
+      },
+      {
+        "icon": "camera",
+        "color": "#FB8C00",
+        "label": "Then",
+        "text": "Take turns photographing each other using portrait mode, trying different angles and poses. Experiment with silhouettes, backlighting, and candid moments of laughter when someone feels awkward."
+      },
+      {
+        "icon": "heart",
+        "color": "#FFA726",
+        "label": "End",
+        "text": "Set up your camera on self-timer or ask a passerby to capture you together as the sun sets. Edit your favorite shots together later and print one to frame as a memento."
+      }
+    ],
+    "conversation": "What version of yourself do you think looks back at you from photographs, and how does it differ from who you feel you are?",
+    "likes": 7234,
+    "createdAt": "2026-01-23T17:45:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Golden Hour Calculator",
+        "url": "https://www.golden-hour.com/",
+        "icon": "sun"
+      }
+    ]
+  },
+  {
+    "id": "waterfall-meditation-hike",
+    "name": "Waterfall Meditation Hike",
+    "heroIcon": "mountain",
+    "heroColor": "#2E7D32",
+    "vibe": [
+      "chill",
+      "adventurous",
+      "wholesome"
+    ],
+    "budget": "free",
+    "setting": "nature",
+    "type": [
+      "regular",
+      "anniversary"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "half-day",
+    "steps": [
+      {
+        "icon": "mountain",
+        "color": "#2E7D32",
+        "label": "Start",
+        "text": "Research a moderate hiking trail that leads to a waterfall, packing water, snacks, and a small speaker for later. Start your hike in the morning to beat crowds and heat, walking at a leisurely pace."
+      },
+      {
+        "icon": "umbrella",
+        "color": "#388E3C",
+        "label": "Then",
+        "text": "When you reach the waterfall, find a spot to sit and simply listen to the water for 10 minutes without talking. Play a guided meditation or calming music through your speaker and breathe together."
+      },
+      {
+        "icon": "heart",
+        "color": "#43A047",
+        "label": "End",
+        "text": "Share one thing you're each grateful for and one thing you're ready to let go of, symbolically leaving it at the waterfall. Take photos but try to be present more than you document."
+      }
+    ],
+    "conversation": "What in your life feels like a constant current that pulls you along, and do you resist it or surrender to it?",
+    "likes": 6012,
+    "createdAt": "2026-01-06T08:20:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "AllTrails Waterfall Hikes",
+        "url": "https://www.alltrails.com/",
+        "icon": "mountain"
+      }
+    ]
+  },
+  {
+    "id": "wild-berry-picking",
+    "name": "Wild Berry Picking Adventure",
+    "heroIcon": "flower",
+    "heroColor": "#C62828",
+    "vibe": [
+      "wholesome",
+      "nostalgic",
+      "active"
+    ],
+    "budget": "$",
+    "setting": "nature",
+    "type": [
+      "regular",
+      "double-date"
+    ],
+    "season": [
+      "summer"
+    ],
+    "duration": "half-day",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#C62828",
+        "label": "Start",
+        "text": "Find a local u-pick berry farm or wild berry patch and bring buckets, sunscreen, and snacks. Dress in clothes that can get stained and embrace the messy, hands-on nature of foraging."
+      },
+      {
+        "icon": "flower",
+        "color": "#D32F2F",
+        "label": "Then",
+        "text": "Pick berries together, sneaking tastes and comparing who has collected the most. Take silly photos of each other with berry-stained hands and faces, fully embracing the childlike joy of it."
+      },
+      {
+        "icon": "cake",
+        "color": "#E53935",
+        "label": "End",
+        "text": "Head home and bake something simple together with your harvest\u2014a cobbler, pie, or just berries with cream. Freeze some berries to use later in the year as a reminder of this summer day."
+      }
+    ],
+    "conversation": "What simple pleasure from childhood do you wish you made more time for as an adult?",
+    "likes": 5456,
+    "createdAt": "2026-01-10T11:05:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Find U-Pick Farms Near You",
+        "url": "https://www.pickyourown.org/",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "cliff-jumping-courage",
+    "name": "Cliff Jumping & Courage",
+    "heroIcon": "mountain",
+    "heroColor": "#0277BD",
+    "vibe": [
+      "adventurous",
+      "active",
+      "spontaneous"
+    ],
+    "budget": "$$$",
+    "setting": "nature",
+    "type": [
+      "regular",
+      "anniversary"
+    ],
+    "season": [
+      "summer"
+    ],
+    "duration": "full-day",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#0277BD",
+        "label": "Start",
+        "text": "Research safe, legal cliff jumping spots or book a guided canyoneering tour with a reputable company. Pack swimsuits, towels, dry clothes, and waterproof cases for your phones and valuables."
+      },
+      {
+        "icon": "mountain",
+        "color": "#0288D1",
+        "label": "Then",
+        "text": "Start with smaller jumps to build confidence, cheering each other on and taking turns. Push your comfort zones together but never pressure\u2014the goal is shared bravery, not recklessness."
+      },
+      {
+        "icon": "trophy",
+        "color": "#039BE5",
+        "label": "End",
+        "text": "After conquering your fears, relax by the water and talk about other challenges you want to face together. Celebrate with a nice dinner nearby, toasting to your courage and trust in each other."
+      }
+    ],
+    "conversation": "What's something you've been too afraid to try, and what would it take for you to finally do it?",
+    "likes": 4789,
+    "createdAt": "2026-01-13T09:40:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Cliff Jumping Safety Guide",
+        "url": "https://www.rei.com/learn/expert-advice/cliff-jumping.html",
+        "icon": "mountain"
+      },
+      {
+        "label": "Find Guided Canyoneering Tours",
+        "url": "https://www.viator.com/searchResults/all?text=canyoneering",
+        "icon": "compass"
+      }
+    ]
+  },
+  {
+    "id": "progressive-dinner-crawl",
+    "name": "Progressive Dinner Crawl",
+    "heroIcon": "utensils",
+    "heroColor": "#6A1B9A",
+    "vibe": [
+      "adventurous",
+      "luxe",
+      "spontaneous"
+    ],
+    "budget": "$$$",
+    "setting": "city",
+    "type": [
+      "anniversary",
+      "regular"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#6A1B9A",
+        "label": "Start",
+        "text": "Plan a route through your city visiting 4-5 different restaurants in one evening, having one course at each. Start with appetizers at a place known for small plates, making reservations or calling ahead when possible."
+      },
+      {
+        "icon": "utensils",
+        "color": "#7B1FA2",
+        "label": "Then",
+        "text": "Move through your courses\u2014soup or salad at spot two, main course at spot three, cheese or another savory at spot four. Walk between restaurants when possible to work up appetite and explore the city."
+      },
+      {
+        "icon": "cake",
+        "color": "#8E24AA",
+        "label": "End",
+        "text": "End with dessert and coffee at a cafe or bakery you've been wanting to try. Rate each course and restaurant, deciding which one you'd return to for a full meal."
+      }
+    ],
+    "conversation": "If you could only eat one type of cuisine for the rest of your life but it would always be extraordinary, what would you choose?",
+    "likes": 6890,
+    "createdAt": "2026-01-24T18:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Restaurant Discovery Apps",
+        "url": "https://www.opentable.com/",
+        "icon": "utensils"
+      }
+    ]
+  },
+  {
+    "id": "architecture-walk-and-sketch",
+    "name": "Architecture Walk & Sketch",
+    "heroIcon": "landmark",
+    "heroColor": "#2E5266",
+    "vibe": [
+      "intellectual",
+      "creative",
+      "chill"
+    ],
+    "budget": "$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "any",
+      "spring"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#2E5266",
+        "label": "Start",
+        "text": "Pick a historic neighborhood and grab simple sketch supplies from a local art store. Set a goal to document three buildings that catch your eye."
+      },
+      {
+        "icon": "landmark",
+        "color": "#3D6A7A",
+        "label": "Then",
+        "text": "Take turns choosing buildings to sketch, even if you're terrible at it. Share what details you notice\u2014cornices, doorways, patterns\u2014and why they appeal to you."
+      },
+      {
+        "icon": "coffee",
+        "color": "#4C7F8E",
+        "label": "End",
+        "text": "Find a caf\u00e9 with a view and compare your sketches over drinks. Research the history of your favorite building on your phone together."
+      }
+    ],
+    "conversation": "If you could design one building in this city, what would it be and what story would you want it to tell?",
+    "likes": 3421,
+    "createdAt": "2026-01-05T14:23:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Urban Sketching Basics",
+        "url": "https://urbansketchers.org",
+        "icon": "paintbrush"
+      }
+    ]
+  },
+  {
+    "id": "midnight-diner-and-secrets",
+    "name": "Midnight Diner & Secrets",
+    "heroIcon": "moon",
+    "heroColor": "#1A1A2E",
+    "vibe": [
+      "nostalgic",
+      "spontaneous",
+      "cozy"
+    ],
+    "budget": "$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "any",
+      "winter"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "moon",
+        "color": "#1A1A2E",
+        "label": "Start",
+        "text": "Meet at 11pm and drive to the greasiest 24-hour diner you can find. Order breakfast foods at midnight and split a milkshake."
+      },
+      {
+        "icon": "heart",
+        "color": "#2D2D44",
+        "label": "Then",
+        "text": "Play a game: take turns sharing one secret you've never told anyone. Keep it light or go deep\u2014your choice, no pressure."
+      },
+      {
+        "icon": "sparkles",
+        "color": "#3F3F5A",
+        "label": "End",
+        "text": "Take the long way home with the windows down. Stop somewhere unexpected\u2014an empty parking lot, a bridge\u2014and just sit together for ten minutes."
+      }
+    ],
+    "conversation": "What's a memory from your childhood that you haven't thought about in years but just came flooding back?",
+    "likes": 6834,
+    "createdAt": "2026-01-08T22:15:00Z",
+    "featured": true,
+    "resources": [
+      {
+        "label": "Best 24-Hour Diners Near You",
+        "url": "https://yelp.com",
+        "icon": "utensils"
+      }
+    ]
+  },
+  {
+    "id": "thrift-swap-fashion-show",
+    "name": "Thrift Swap Fashion Show",
+    "heroIcon": "scissors",
+    "heroColor": "#D4508A",
+    "vibe": [
+      "funny",
+      "spontaneous",
+      "quirky"
+    ],
+    "budget": "$",
+    "setting": "city",
+    "type": [
+      "double-date",
+      "regular"
+    ],
+    "season": [
+      "any",
+      "rainy-day"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "scissors",
+        "color": "#D4508A",
+        "label": "Start",
+        "text": "Hit a thrift store with $15 each and 30 minutes to pick out the most ridiculous complete outfit for your partner. No input from them allowed\u2014trust your terrible taste."
+      },
+      {
+        "icon": "sparkles",
+        "color": "#E06B9F",
+        "label": "Then",
+        "text": "Go to someone's place and have everyone model their outfits with full runway walks and poses. Take photos that will haunt you forever."
+      },
+      {
+        "icon": "pizza",
+        "color": "#EC86B4",
+        "label": "End",
+        "text": "Order pizza and vote on categories: Most Outrageous, Best Accidental Style, Would Actually Wear This. The winner keeps their outfit as a trophy."
+      }
+    ],
+    "conversation": "What's the worst fashion trend you genuinely loved when you were younger?",
+    "likes": 8247,
+    "createdAt": "2026-01-12T16:40:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Thrift Shopping Guide",
+        "url": "https://goodwill.org",
+        "icon": "gift"
+      }
+    ]
+  },
+  {
+    "id": "poetry-bar-crawl",
+    "name": "Poetry Bar Crawl",
+    "heroIcon": "book",
+    "heroColor": "#6B4226",
+    "vibe": [
+      "intellectual",
+      "spontaneous",
+      "quirky"
+    ],
+    "budget": "$$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "double-date"
+    ],
+    "season": [
+      "any",
+      "fall"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "book",
+        "color": "#6B4226",
+        "label": "Start",
+        "text": "Each person brings a slim poetry book from home or a bookstore. Visit a cozy bar and order drinks, then take turns reading one favorite poem aloud."
+      },
+      {
+        "icon": "martini",
+        "color": "#825833",
+        "label": "Then",
+        "text": "Move to a second bar and try writing a terrible collaborative poem on napkins, one line per person. The worse it is, the better you're doing."
+      },
+      {
+        "icon": "microphone",
+        "color": "#996E40",
+        "label": "End",
+        "text": "Find an open mic night or just a loud bar where you can dramatically perform your napkin masterpiece. Bow to imaginary applause."
+      }
+    ],
+    "conversation": "What's a line from a song or poem that's lived in your head for years, even if you don't know why?",
+    "likes": 4156,
+    "createdAt": "2026-01-15T19:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Poetry Foundation",
+        "url": "https://poetryfoundation.org",
+        "icon": "book"
+      },
+      {
+        "label": "Find Open Mics",
+        "url": "https://openmikes.org",
+        "icon": "microphone"
+      }
+    ]
+  },
+  {
+    "id": "early-morning-market-breakfast",
+    "name": "Early Morning Market Breakfast",
+    "heroIcon": "sun",
+    "heroColor": "#F79D00",
+    "vibe": [
+      "wholesome",
+      "active",
+      "spontaneous"
+    ],
+    "budget": "$",
+    "setting": "city",
+    "type": [
+      "weeknight-quick",
+      "regular"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "sun",
+        "color": "#F79D00",
+        "label": "Start",
+        "text": "Set alarms for 6am and meet at a farmers market right when it opens. The morning light and quiet energy before crowds arrive is magic."
+      },
+      {
+        "icon": "sandwich",
+        "color": "#FFB020",
+        "label": "Then",
+        "text": "Build breakfast from different vendors: fresh pastries here, fruit there, coffee from that corner stand. Eat as you walk and sample everything."
+      },
+      {
+        "icon": "flower",
+        "color": "#FFC340",
+        "label": "End",
+        "text": "Buy one impractical thing\u2014fresh flowers, weird produce, handmade soap. Head to a park bench and watch the city wake up together."
+      }
+    ],
+    "conversation": "What's your ideal way to start a Saturday morning when you have absolutely nowhere to be?",
+    "likes": 5692,
+    "createdAt": "2026-01-18T07:15:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Local Farmers Markets",
+        "url": "https://localfarmmarkets.org",
+        "icon": "leaf"
+      }
+    ]
+  },
+  {
+    "id": "museum-after-dark-mystery",
+    "name": "Museum After Dark Mystery",
+    "heroIcon": "gem",
+    "heroColor": "#4A148C",
+    "vibe": [
+      "intellectual",
+      "romantic",
+      "luxe"
+    ],
+    "budget": "$$$",
+    "setting": "city",
+    "type": [
+      "anniversary",
+      "regular"
+    ],
+    "season": [
+      "any",
+      "winter"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "gem",
+        "color": "#4A148C",
+        "label": "Start",
+        "text": "Book tickets to a museum's special evening event\u2014often they have jazz, wine, and way fewer crowds. Dress up a little; lean into the atmosphere."
+      },
+      {
+        "icon": "compass",
+        "color": "#6A1B9A",
+        "label": "Then",
+        "text": "Make up backstories for three pieces of art: dramatic, funny, conspiratorial. Try to guess which time period or culture speaks most to each of you and why."
+      },
+      {
+        "icon": "martini",
+        "color": "#7B1FA2",
+        "label": "End",
+        "text": "Grab drinks at the museum bar or a sophisticated spot nearby. Discuss which piece you'd steal if you were an art thief and what room you'd put it in."
+      }
+    ],
+    "conversation": "If you could commission one artist\u2014living or dead\u2014to create something just for you, who and what would it be?",
+    "likes": 4923,
+    "createdAt": "2026-01-22T20:45:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Museum Evening Events",
+        "url": "https://museumhack.com",
+        "icon": "ticket"
+      }
+    ]
+  },
+  {
+    "id": "retro-arcade-tournament",
+    "name": "Retro Arcade Tournament",
+    "heroIcon": "gamepad",
+    "heroColor": "#FF006E",
+    "vibe": [
+      "nostalgic",
+      "competitive",
+      "active"
+    ],
+    "budget": "$$",
+    "setting": "city",
+    "type": [
+      "double-date",
+      "regular"
+    ],
+    "season": [
+      "any",
+      "rainy-day"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "gamepad",
+        "color": "#FF006E",
+        "label": "Start",
+        "text": "Find an arcade bar with classic games and split tokens. Create a tournament bracket for games like Pac-Man, skee-ball, or racing games\u2014serious competition only."
+      },
+      {
+        "icon": "trophy",
+        "color": "#FF3385",
+        "label": "Then",
+        "text": "Keep score and talk maximum trash. Winners of each round pick the next game, losers buy the next round of drinks or snacks."
+      },
+      {
+        "icon": "beer",
+        "color": "#FF669C",
+        "label": "End",
+        "text": "Crown the champion with a ridiculous prize from the token machine. Take a photo with the plastic trophy or candy necklace like it's the Olympics."
+      }
+    ],
+    "conversation": "What video game or toy from your childhood do you wish you could experience again for the first time?",
+    "likes": 7156,
+    "createdAt": "2026-01-25T18:20:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Arcade Bars Directory",
+        "url": "https://barcadelocations.com",
+        "icon": "gamepad"
+      }
+    ]
+  },
+  {
+    "id": "food-cart-world-tour",
+    "name": "Food Cart World Tour",
+    "heroIcon": "compass",
+    "heroColor": "#E63946",
+    "vibe": [
+      "adventurous",
+      "spontaneous",
+      "active"
+    ],
+    "budget": "$$",
+    "setting": "city",
+    "type": [
+      "double-date",
+      "weeknight-quick"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "compass",
+        "color": "#E63946",
+        "label": "Start",
+        "text": "Map out five food carts from different cuisines\u2014Ethiopian, Korean, Mexican, whatever's around. The rule: order something you can't pronounce or have never tried."
+      },
+      {
+        "icon": "utensils",
+        "color": "#F1545D",
+        "label": "Then",
+        "text": "Hit three to four carts, sharing small portions so you can taste everything. Walk between them and rate each cart on flavor, authenticity, and 'would order again' factor."
+      },
+      {
+        "icon": "star",
+        "color": "#F76F74",
+        "label": "End",
+        "text": "Find a park or plaza to sit and debrief. Declare a winner and plan to bring friends to your top pick next time."
+      }
+    ],
+    "conversation": "What's a food you were sure you'd hate but ended up loving, and what changed your mind?",
+    "likes": 6428,
+    "createdAt": "2026-01-28T17:55:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Street Food Guide",
+        "url": "https://roaminghunger.com",
+        "icon": "utensils"
+      }
+    ]
+  },
+  {
+    "id": "living-room-film-festival",
+    "name": "Living Room Film Festival",
+    "heroIcon": "film",
+    "heroColor": "#1B263B",
+    "vibe": [
+      "cozy",
+      "intellectual",
+      "nostalgic"
+    ],
+    "budget": "free",
+    "setting": "home",
+    "type": [
+      "regular",
+      "rainy-day"
+    ],
+    "season": [
+      "any",
+      "winter"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "film",
+        "color": "#1B263B",
+        "label": "Start",
+        "text": "Each person picks one short film (under 30 min) that means something to them\u2014could be a nostalgic favorite, an art piece, or something obscure. Create 'programs' with pen and paper like a real festival."
+      },
+      {
+        "icon": "popcorn",
+        "color": "#2D3E50",
+        "label": "Then",
+        "text": "Screen your films back-to-back with popcorn and blankets. After each one, hold a mini Q&A session where the curator explains why they chose it."
+      },
+      {
+        "icon": "star",
+        "color": "#3F5565",
+        "label": "End",
+        "text": "Vote on categories you make up: Most Surprisingly Moving, Best Use of Color, Would Recommend to Your Mom. Keep the programs as mementos."
+      }
+    ],
+    "conversation": "What movie or show shaped who you are in a way you didn't realize until much later?",
+    "likes": 5834,
+    "createdAt": "2026-01-10T21:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Short Films Database",
+        "url": "https://shortoftheweek.com",
+        "icon": "film"
+      },
+      {
+        "label": "Criterion Channel",
+        "url": "https://criterionchannel.com",
+        "icon": "film"
+      }
+    ]
+  },
+  {
+    "id": "home-spa-and-storytelling",
+    "name": "Home Spa & Storytelling",
+    "heroIcon": "sparkles",
+    "heroColor": "#B5838D",
+    "vibe": [
+      "cozy",
+      "romantic",
+      "sensual"
+    ],
+    "budget": "$",
+    "setting": "home",
+    "type": [
+      "regular",
+      "anniversary"
+    ],
+    "season": [
+      "any",
+      "winter"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "candle",
+        "color": "#B5838D",
+        "label": "Start",
+        "text": "Set up a spa zone: candles, face masks, warm towels, a playlist of rain sounds or ambient music. Phone goes in another room\u2014this is a no-screen zone."
+      },
+      {
+        "icon": "sparkles",
+        "color": "#C899A3",
+        "label": "Then",
+        "text": "Take turns giving each other hand massages or foot soaks while telling stories from before you met. Focus on the weird, mundane, or embarrassing memories."
+      },
+      {
+        "icon": "heart",
+        "color": "#DBAFB9",
+        "label": "End",
+        "text": "Make tea or hot chocolate and just sit together in comfortable silence or soft conversation. Let the evening wind down with no agenda."
+      }
+    ],
+    "conversation": "What's a small physical sensation that brings you total peace\u2014a specific texture, temperature, or movement?",
+    "likes": 4267,
+    "createdAt": "2026-01-14T19:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "DIY Spa Recipes",
+        "url": "https://hellonatural.co",
+        "icon": "sparkles"
+      }
+    ]
+  },
+  {
+    "id": "blanket-fort-philosophy",
+    "name": "Blanket Fort Philosophy",
+    "heroIcon": "home",
+    "heroColor": "#4A4E69",
+    "vibe": [
+      "cozy",
+      "intellectual",
+      "quirky"
+    ],
+    "budget": "free",
+    "setting": "home",
+    "type": [
+      "weeknight-quick",
+      "regular"
+    ],
+    "season": [
+      "any",
+      "rainy-day"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "home",
+        "color": "#4A4E69",
+        "label": "Start",
+        "text": "Build an elaborate blanket fort with couch cushions, sheets, and string lights. The structural integrity doesn't matter\u2014commitment to the aesthetic does."
+      },
+      {
+        "icon": "book",
+        "color": "#5E6382",
+        "label": "Then",
+        "text": "Crawl inside with snacks and a list of ridiculous philosophical questions you find online. Debate them seriously: Is a hot dog a sandwich? Would you fight one horse-sized duck?"
+      },
+      {
+        "icon": "heart",
+        "color": "#72789B",
+        "label": "End",
+        "text": "Fall asleep in the fort if it's sturdy enough, or at least stay until your legs go numb. Take a photo to commemorate your architectural achievement."
+      }
+    ],
+    "conversation": "What's something everyone seems to take seriously that you think is actually kind of absurd?",
+    "likes": 7892,
+    "createdAt": "2026-01-07T20:15:00Z",
+    "featured": true,
+    "resources": [
+      {
+        "label": "Blanket Fort Building Guide",
+        "url": "https://apartmenttherapy.com",
+        "icon": "home"
+      }
+    ]
+  },
+  {
+    "id": "kitchen-dance-party-dinner",
+    "name": "Kitchen Dance Party Dinner",
+    "heroIcon": "music",
+    "heroColor": "#FF6B35",
+    "vibe": [
+      "spontaneous",
+      "active",
+      "cozy"
+    ],
+    "budget": "$",
+    "setting": "home",
+    "type": [
+      "weeknight-quick",
+      "regular"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "music",
+        "color": "#FF6B35",
+        "label": "Start",
+        "text": "Pick a simple recipe you can cook together\u2014pasta, stir-fry, tacos, whatever. But here's the catch: create a collaborative playlist and the music never stops."
+      },
+      {
+        "icon": "utensils",
+        "color": "#FF8654",
+        "label": "Then",
+        "text": "Cook and dance simultaneously. Wooden spoon microphones are mandatory. If someone's not moving to the beat, the other can call them out."
+      },
+      {
+        "icon": "heart",
+        "color": "#FFA173",
+        "label": "End",
+        "text": "Eat your slightly chaotic meal at the table with the music still going. Rate the meal on food quality and dance moves separately."
+      }
+    ],
+    "conversation": "What song is scientifically impossible for you to hear without moving your body?",
+    "likes": 8561,
+    "createdAt": "2026-01-20T18:40:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Easy Date Night Recipes",
+        "url": "https://budgetbytes.com",
+        "icon": "utensils"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-and-podcast-marathon",
+    "name": "Puzzle & Podcast Marathon",
+    "heroIcon": "puzzle",
+    "heroColor": "#52796F",
+    "vibe": [
+      "cozy",
+      "intellectual",
+      "chill"
+    ],
+    "budget": "$",
+    "setting": "home",
+    "type": [
+      "regular",
+      "rainy-day"
+    ],
+    "season": [
+      "any",
+      "fall"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "puzzle",
+        "color": "#52796F",
+        "label": "Start",
+        "text": "Get a 1000-piece puzzle\u2014landscape, art print, or weird niche theme. Set it up on a table or the floor with snacks and drinks within reach."
+      },
+      {
+        "icon": "headphones",
+        "color": "#6B9080",
+        "label": "Then",
+        "text": "Queue up a long-form podcast series or audiobook you've both wanted to hear. Work on the puzzle together while you listen, occasionally pausing to discuss."
+      },
+      {
+        "icon": "star",
+        "color": "#84A98C",
+        "label": "End",
+        "text": "Don't worry about finishing\u2014the point is the process. Take a photo of your progress and agree to continue it next week, or glue it and frame it if you somehow complete it."
+      }
+    ],
+    "conversation": "What's a topic you could listen to people talk about for hours, even if you don't know much about it yourself?",
+    "likes": 4735,
+    "createdAt": "2026-01-24T16:20:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Best Puzzle Brands",
+        "url": "https://jigsawjunkie.com",
+        "icon": "puzzle"
+      },
+      {
+        "label": "Podcast Recommendations",
+        "url": "https://podchaser.com",
+        "icon": "headphones"
+      }
+    ]
+  },
+  {
+    "id": "stargazing-with-mythology",
+    "name": "Stargazing With Mythology",
+    "heroIcon": "telescope",
+    "heroColor": "#0B132B",
+    "vibe": [
+      "romantic",
+      "intellectual",
+      "adventurous"
+    ],
+    "budget": "free",
+    "setting": "outdoor",
+    "type": [
+      "regular",
+      "anniversary"
+    ],
+    "season": [
+      "summer",
+      "fall"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "telescope",
+        "color": "#0B132B",
+        "label": "Start",
+        "text": "Drive out of the city to somewhere dark\u2014a field, hilltop, or park. Bring blankets, a star map app, and some basic astronomy knowledge from a quick YouTube binge."
+      },
+      {
+        "icon": "star",
+        "color": "#1C2541",
+        "label": "Then",
+        "text": "Lie back and find constellations together. Read the mythology behind each one\u2014Orion, Cassiopeia, Andromeda\u2014and discuss which stories resonate or seem ridiculous."
+      },
+      {
+        "icon": "heart",
+        "color": "#2D3757",
+        "label": "End",
+        "text": "Make up your own constellation from random stars and invent a story for it. Name it something meaningful or completely absurd."
+      }
+    ],
+    "conversation": "If you could witness any astronomical event in history\u2014supernova, eclipse, comet\u2014which would you choose and why?",
+    "likes": 6012,
+    "createdAt": "2026-01-11T22:50:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Star Map App",
+        "url": "https://stellarium-web.org",
+        "icon": "telescope"
+      },
+      {
+        "label": "Constellation Mythology",
+        "url": "https://theoi.com",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "id": "urban-photography-scavenger-hunt",
+    "name": "Urban Photography Scavenger Hunt",
+    "heroIcon": "camera",
+    "heroColor": "#F4A261",
+    "vibe": [
+      "creative",
+      "active",
+      "spontaneous"
+    ],
+    "budget": "free",
+    "setting": "outdoor",
+    "type": [
+      "double-date",
+      "regular"
+    ],
+    "season": [
+      "any",
+      "spring"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "camera",
+        "color": "#F4A261",
+        "label": "Start",
+        "text": "Create a scavenger hunt list: Something Red, A Stranger's Hands, Reflection, Shadows, Graffiti with Heart. Split into teams if you're with another couple."
+      },
+      {
+        "icon": "compass",
+        "color": "#F6B77E",
+        "label": "Then",
+        "text": "Roam your neighborhood or downtown with just your phones. You have one hour to capture everything on the list\u2014creative interpretations encouraged."
+      },
+      {
+        "icon": "trophy",
+        "color": "#F8C99B",
+        "label": "End",
+        "text": "Meet back up and share photos. Judge on creativity, humor, and composition. The winner gets to pick the next date."
+      }
+    ],
+    "conversation": "What's your favorite photo you've ever taken, and what makes it special beyond just how it looks?",
+    "likes": 5478,
+    "createdAt": "2026-01-17T14:35:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Photo Scavenger Hunt Ideas",
+        "url": "https://digital-photography-school.com",
+        "icon": "camera"
+      }
+    ]
+  },
+  {
+    "id": "neighborhood-mural-tour",
+    "name": "Neighborhood Mural Tour",
+    "heroIcon": "palette",
+    "heroColor": "#E76F51",
+    "vibe": [
+      "creative",
+      "active",
+      "intellectual"
+    ],
+    "budget": "free",
+    "setting": "outdoor",
+    "type": [
+      "weeknight-quick",
+      "regular"
+    ],
+    "season": [
+      "any",
+      "summer"
+    ],
+    "duration": "1-2hrs",
+    "steps": [
+      {
+        "icon": "palette",
+        "color": "#E76F51",
+        "label": "Start",
+        "text": "Research street art in your city or just wander a vibrant neighborhood known for murals. Bring a camera or phone to document your favorites."
+      },
+      {
+        "icon": "compass",
+        "color": "#F18F6B",
+        "label": "Then",
+        "text": "Stop at each mural and discuss what you think the artist was trying to say. Try to find the artist's signature or tag and look them up on social media."
+      },
+      {
+        "icon": "coffee",
+        "color": "#FBAF85",
+        "label": "End",
+        "text": "Grab coffee or a drink at a local spot and flip through your photos. Pick your favorite piece and talk about what you'd paint if you had a wall and no rules."
+      }
+    ],
+    "conversation": "If you could paint one message or image for thousands of people to see every day, what would it be?",
+    "likes": 4921,
+    "createdAt": "2026-01-26T15:10:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Street Art Cities",
+        "url": "https://streetartcities.com",
+        "icon": "palette"
+      }
+    ]
+  },
+  {
+    "id": "bike-ride-to-nowhere",
+    "name": "Bike Ride to Nowhere",
+    "heroIcon": "bike",
+    "heroColor": "#06A77D",
+    "vibe": [
+      "active",
+      "spontaneous",
+      "adventurous"
+    ],
+    "budget": "free",
+    "setting": "outdoor",
+    "type": [
+      "weeknight-quick",
+      "regular"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "bike",
+        "color": "#06A77D",
+        "label": "Start",
+        "text": "Grab bikes and pick a direction with zero plan. The only rule: every ten minutes, one person calls out left or right and you follow it blindly."
+      },
+      {
+        "icon": "compass",
+        "color": "#12C094",
+        "label": "Then",
+        "text": "Keep riding until you find something interesting\u2014a weird store, a hidden park, a mural, a view. Stop and explore for a bit before moving on."
+      },
+      {
+        "icon": "star",
+        "color": "#1ED9AB",
+        "label": "End",
+        "text": "Eventually loop back home or stop somewhere for food or drinks. Try to retrace your route on a map later and see how far you wandered."
+      }
+    ],
+    "conversation": "When's the last time you got genuinely lost, and did you enjoy it or hate it?",
+    "likes": 6704,
+    "createdAt": "2026-01-09T17:25:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Bike Route Planner",
+        "url": "https://ridewithgps.com",
+        "icon": "bike"
+      }
+    ]
+  },
+  {
+    "id": "forest-therapy-walk",
+    "name": "Forest Therapy Walk",
+    "heroIcon": "trees",
+    "heroColor": "#2D6A4F",
+    "vibe": [
+      "chill",
+      "wholesome",
+      "romantic"
+    ],
+    "budget": "free",
+    "setting": "nature",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "any",
+      "spring"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "trees",
+        "color": "#2D6A4F",
+        "label": "Start",
+        "text": "Find a local forest trail or wooded park. Set an intention to walk slowly\u2014not for exercise, but to actually notice the environment around you."
+      },
+      {
+        "icon": "leaf",
+        "color": "#40916C",
+        "label": "Then",
+        "text": "Practice 'forest bathing': stop every so often to touch bark, smell the air, listen to birds. Talk quietly or not at all, just exist together in the space."
+      },
+      {
+        "icon": "heart",
+        "color": "#52B788",
+        "label": "End",
+        "text": "Find a spot to sit\u2014a log, a clearing, a bench. Close your eyes for one minute together and just listen to the forest. Then discuss what you heard."
+      }
+    ],
+    "conversation": "What natural setting makes you feel most at peace, and what do you think draws you to it?",
+    "likes": 5234,
+    "createdAt": "2026-01-13T11:45:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Forest Bathing Guide",
+        "url": "https://natureandforesttherapy.org",
+        "icon": "trees"
+      }
+    ]
+  },
+  {
+    "id": "wildflower-foraging-picnic",
+    "name": "Wildflower Foraging Picnic",
+    "heroIcon": "flower",
+    "heroColor": "#D8BFD8",
+    "vibe": [
+      "romantic",
+      "wholesome",
+      "adventurous"
+    ],
+    "budget": "$$",
+    "setting": "nature",
+    "type": [
+      "regular",
+      "anniversary"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "half-day",
+    "steps": [
+      {
+        "icon": "flower",
+        "color": "#D8BFD8",
+        "label": "Start",
+        "text": "Pack a picnic basket with cheese, bread, fruit, and wine or lemonade. Drive to a meadow or nature preserve known for wildflowers\u2014check bloom times in advance."
+      },
+      {
+        "icon": "camera",
+        "color": "#E3D0E3",
+        "label": "Then",
+        "text": "Walk slowly through the field, identifying flowers with an app or guidebook. Take photos but leave them rooted\u2014document instead of picking."
+      },
+      {
+        "icon": "heart",
+        "color": "#EEE1EE",
+        "label": "End",
+        "text": "Spread a blanket in the middle of everything and have your picnic surrounded by color. Lie back afterward and watch clouds or just talk."
+      }
+    ],
+    "conversation": "What's your earliest memory of being outside and feeling completely happy?",
+    "likes": 4567,
+    "createdAt": "2026-01-19T13:20:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Wildflower Identification App",
+        "url": "https://plantnet.org",
+        "icon": "flower"
+      },
+      {
+        "label": "Bloom Time Calendars",
+        "url": "https://wildflower.org",
+        "icon": "leaf"
+      }
+    ]
+  },
+  {
+    "id": "sunrise-mountain-coffee",
+    "name": "Sunrise Mountain Coffee",
+    "heroIcon": "mountain",
+    "heroColor": "#5A4A3E",
+    "vibe": [
+      "adventurous",
+      "romantic",
+      "active"
+    ],
+    "budget": "$$",
+    "setting": "nature",
+    "type": [
+      "anniversary",
+      "regular"
+    ],
+    "season": [
+      "summer",
+      "fall"
+    ],
+    "duration": "half-day",
+    "steps": [
+      {
+        "icon": "mountain",
+        "color": "#5A4A3E",
+        "label": "Start",
+        "text": "Set an alarm for way-too-early and drive to a nearby mountain or hill with a view. Bring a thermos of hot coffee, blankets, and something to sit on."
+      },
+      {
+        "icon": "sun",
+        "color": "#735F52",
+        "label": "Then",
+        "text": "Hike or drive to the summit before dawn. Find your spot, wrap up in blankets, and watch the sky change colors as the sun rises. Stay quiet or narrate the colors together."
+      },
+      {
+        "icon": "heart",
+        "color": "#8C7466",
+        "label": "End",
+        "text": "Pour coffee from the thermos and toast to the new day. Head down and grab a huge breakfast at a diner on the way home, then nap the rest of the morning."
+      }
+    ],
+    "conversation": "What's something you want to do more of in your life that you keep putting off?",
+    "likes": 7845,
+    "createdAt": "2026-01-16T06:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Sunrise Time Calculator",
+        "url": "https://sunrisesunset.com",
+        "icon": "sun"
+      },
+      {
+        "label": "Local Hiking Trails",
+        "url": "https://alltrails.com",
+        "icon": "mountain"
+      }
+    ]
+  },
+  {
+    "id": "midnight-rooftop-cinema",
+    "name": "Midnight Rooftop Cinema",
+    "heroIcon": "film",
+    "heroColor": "#1a1a2e",
+    "vibe": [
+      "romantic",
+      "quirky",
+      "chill"
+    ],
+    "budget": "$$",
+    "setting": "city",
+    "type": [
+      "anniversary",
+      "regular"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "ticket",
+        "color": "#2d2d44",
+        "label": "Start",
+        "text": "Arrive at a rooftop cinema screening with blankets and pillows already set up. Grab craft cocktails from the bar and settle into your cozy nest under the stars."
+      },
+      {
+        "icon": "popcorn",
+        "color": "#4a4a6a",
+        "label": "Then",
+        "text": "Watch a cult classic or indie film while the city lights twinkle below. Share whispered commentary and steal glances between scenes."
+      },
+      {
+        "icon": "moon",
+        "color": "#6767a0",
+        "label": "End",
+        "text": "Stay after for the post-film discussion, then walk through the quiet city streets dissecting every plot twist and character choice."
+      }
+    ],
+    "conversation": "What movie has shaped the way you see the world, and would you still watch it with me even if I'd hate it?",
+    "likes": 4782,
+    "createdAt": "2026-01-08T14:20:00Z",
+    "featured": true,
+    "resources": [
+      {
+        "label": "Find Rooftop Cinemas Near You",
+        "url": "https://www.rooftopcinemaclub.com",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "wine-cellar-vertical-tasting",
+    "name": "Wine Cellar Vertical Tasting",
+    "heroIcon": "wine",
+    "heroColor": "#5c1a33",
+    "vibe": [
+      "luxe",
+      "intellectual",
+      "sensual"
+    ],
+    "budget": "$$$",
+    "setting": "city",
+    "type": [
+      "anniversary"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "wine",
+        "color": "#7a2244",
+        "label": "Start",
+        "text": "Enter a historic wine cellar for a private vertical tasting\u2014same wine, different vintages. A sommelier guides you through decades of evolution in each glass."
+      },
+      {
+        "icon": "glasses",
+        "color": "#983355",
+        "label": "Then",
+        "text": "Discuss how each year's terroir and climate created completely different wines. Compare notes on which vintage matches your relationship's different chapters."
+      },
+      {
+        "icon": "gem",
+        "color": "#b64466",
+        "label": "End",
+        "text": "Select a birth-year bottle to age together and open on a future anniversary, creating a delicious tradition."
+      }
+    ],
+    "conversation": "If our relationship was a wine, what vintage would we be and how many more years should we age?",
+    "likes": 2341,
+    "createdAt": "2026-01-15T09:45:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Wine Tasting Guide",
+        "url": "https://www.wine-searcher.com/critics-scores",
+        "icon": "book"
+      },
+      {
+        "label": "Private Cellar Tours",
+        "url": "https://www.viator.com/wine-tours",
+        "icon": "compass"
+      }
+    ]
+  },
+  {
+    "id": "competitive-escape-room-marathon",
+    "name": "Competitive Escape Room Marathon",
+    "heroIcon": "puzzle",
+    "heroColor": "#ff6b35",
+    "vibe": [
+      "competitive",
+      "intellectual",
+      "quirky"
+    ],
+    "budget": "$$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "double-date"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "half-day",
+    "steps": [
+      {
+        "icon": "trophy",
+        "color": "#ff7f50",
+        "label": "Start",
+        "text": "Book back-to-back escape rooms at different venues and create a points system for who solves more puzzles. Set playful stakes for the winner."
+      },
+      {
+        "icon": "puzzle",
+        "color": "#ff9366",
+        "label": "Then",
+        "text": "Race through three themed rooms, from murder mysteries to sci-fi laboratories. Document your best (and worst) teamwork moments for later laughs."
+      },
+      {
+        "icon": "sparkles",
+        "color": "#ffa77c",
+        "label": "End",
+        "text": "Tally scores over victory drinks and plan your ultimate custom escape room you'd design for other couples."
+      }
+    ],
+    "conversation": "Would you rather solve a mystery together or against each other, and what does that say about us?",
+    "likes": 5623,
+    "createdAt": "2026-01-22T16:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Top Escape Rooms",
+        "url": "https://www.escaperoomguide.com",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "jazz-speakeasy-time-travel",
+    "name": "Jazz Speakeasy Time Travel",
+    "heroIcon": "music",
+    "heroColor": "#2c1810",
+    "vibe": [
+      "romantic",
+      "luxe",
+      "nostalgic"
+    ],
+    "budget": "$$$",
+    "setting": "city",
+    "type": [
+      "anniversary",
+      "regular"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "martini",
+        "color": "#3d2416",
+        "label": "Start",
+        "text": "Find the unmarked door and whisper the password to enter a 1920s-style speakeasy. Dress the part\u2014vintage attire encouraged but not required."
+      },
+      {
+        "icon": "music",
+        "color": "#4e301c",
+        "label": "Then",
+        "text": "Sip handcrafted prohibition-era cocktails while a live jazz quartet plays Ella and Duke. Request a song and slow dance between the velvet booths."
+      },
+      {
+        "icon": "heart",
+        "color": "#5f3c22",
+        "label": "End",
+        "text": "End the night with a nightcap at the bar, learning one signature cocktail recipe from the mixologist to recreate at home."
+      }
+    ],
+    "conversation": "What era would you want to experience together, and what would we do there that we can't do now?",
+    "likes": 6891,
+    "createdAt": "2026-02-03T20:15:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Secret Speakeasy Locator",
+        "url": "https://www.speakeasyapp.com",
+        "icon": "compass"
+      }
+    ]
+  },
+  {
+    "id": "sunrise-farmers-market-feast",
+    "name": "Sunrise Farmers Market Feast",
+    "heroIcon": "flower",
+    "heroColor": "#f4a460",
+    "vibe": [
+      "wholesome",
+      "romantic",
+      "chill"
+    ],
+    "budget": "$",
+    "setting": "city",
+    "type": [
+      "first-date",
+      "regular"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "sun",
+        "color": "#f5b370",
+        "label": "Start",
+        "text": "Wake up early and arrive at the farmers market when vendors are just setting up. Grab fresh coffee and pastries from the corner bakery stall."
+      },
+      {
+        "icon": "utensils",
+        "color": "#f6c280",
+        "label": "Then",
+        "text": "Challenge each other to create a surprise meal using only what you find at the market. Chat with farmers about their best seasonal picks."
+      },
+      {
+        "icon": "home",
+        "color": "#f7d190",
+        "label": "End",
+        "text": "Head home to cook your market haul together, turning fresh ingredients into an improvised brunch masterpiece."
+      }
+    ],
+    "conversation": "What's a food you didn't like as a kid but would give anything to taste the way your parent or grandparent made it now?",
+    "likes": 7234,
+    "createdAt": "2026-01-11T06:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Local Farmers Markets",
+        "url": "https://www.localharvest.org/farmers-markets",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "street-art-photo-safari",
+    "name": "Street Art Photo Safari",
+    "heroIcon": "camera",
+    "heroColor": "#4ecdc4",
+    "vibe": [
+      "creative",
+      "adventurous",
+      "quirky"
+    ],
+    "budget": "free",
+    "setting": "city",
+    "type": [
+      "first-date",
+      "weeknight-quick"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#5ed5cc",
+        "label": "Start",
+        "text": "Pick a neighborhood known for murals and street art, then set a creative challenge: each photograph yourselves recreating the art's emotion or pose."
+      },
+      {
+        "icon": "camera",
+        "color": "#6eddd4",
+        "label": "Then",
+        "text": "Hunt for hidden gems in alleys and side streets. Take turns directing each other in increasingly ridiculous artistic photo shoots."
+      },
+      {
+        "icon": "palette",
+        "color": "#7ee5dc",
+        "label": "End",
+        "text": "Find a cafe to review your photos, pick the best ones, and create a shared album documenting your urban art adventure."
+      }
+    ],
+    "conversation": "If you could commission a mural about us, what would you want it to show?",
+    "likes": 8123,
+    "createdAt": "2026-01-28T15:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Street Art Map",
+        "url": "https://streetartcities.com",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "bookstore-reading-nook-rendezvous",
+    "name": "Bookstore Reading Nook Rendezvous",
+    "heroIcon": "book",
+    "heroColor": "#8b4513",
+    "vibe": [
+      "cozy",
+      "intellectual",
+      "wholesome"
+    ],
+    "budget": "$",
+    "setting": "city",
+    "type": [
+      "first-date",
+      "rainy-day"
+    ],
+    "season": [
+      "rainy-day",
+      "fall"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "book",
+        "color": "#9a5323",
+        "label": "Start",
+        "text": "Meet at an independent bookstore with cozy reading nooks. Split up and each select a book for the other based on a secret theme or inside joke."
+      },
+      {
+        "icon": "coffee",
+        "color": "#a96133",
+        "label": "Then",
+        "text": "Curl up in armchairs with your gifted books and hot drinks. Read passages aloud to each other when you find something beautiful or funny."
+      },
+      {
+        "icon": "gift",
+        "color": "#b86f43",
+        "label": "End",
+        "text": "Write inscriptions in each other's books before buying them, creating literary time capsules of this moment together."
+      }
+    ],
+    "conversation": "What book changed you, and do you think I'd understand why?",
+    "likes": 5447,
+    "createdAt": "2026-02-06T13:45:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Indie Bookstore Finder",
+        "url": "https://www.indiebound.org",
+        "icon": "compass"
+      }
+    ]
+  },
+  {
+    "id": "arcade-high-score-showdown",
+    "name": "Arcade High Score Showdown",
+    "heroIcon": "gamepad",
+    "heroColor": "#ff00ff",
+    "vibe": [
+      "competitive",
+      "nostalgic",
+      "funny"
+    ],
+    "budget": "$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "1-2hrs",
+    "steps": [
+      {
+        "icon": "gamepad",
+        "color": "#ff33ff",
+        "label": "Start",
+        "text": "Hit a retro arcade bar and exchange a pile of quarters. Create a tournament bracket of games from Pac-Man to racing simulators."
+      },
+      {
+        "icon": "trophy",
+        "color": "#ff66ff",
+        "label": "Then",
+        "text": "Battle through each game, keeping score and trash-talking lovingly. Document your victories with the photo booth between rounds."
+      },
+      {
+        "icon": "beer",
+        "color": "#ff99ff",
+        "label": "End",
+        "text": "Crown the champion over celebratory drinks and make plans to defend the title next month. Winner picks the next date."
+      }
+    ],
+    "conversation": "What's something you were unbeatable at as a kid that you'd still dominate me in today?",
+    "likes": 6789,
+    "createdAt": "2026-01-19T19:20:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Arcade Bar Locator",
+        "url": "https://www.barcadelocations.com",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "candlelit-couples-massage-ritual",
+    "name": "Candlelit Couples Massage Ritual",
+    "heroIcon": "candle",
+    "heroColor": "#d4a574",
+    "vibe": [
+      "sensual",
+      "romantic",
+      "luxe"
+    ],
+    "budget": "$$",
+    "setting": "home",
+    "type": [
+      "anniversary",
+      "regular"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "candle",
+        "color": "#ddb384",
+        "label": "Start",
+        "text": "Transform your bedroom into a spa sanctuary with dozens of candles, essential oils, and a curated sensual playlist. Warm massage oil and dim the lights."
+      },
+      {
+        "icon": "heart",
+        "color": "#e6c194",
+        "label": "Then",
+        "text": "Take turns giving each other slow, intentional massages. Focus on being present\u2014no phones, no distractions, just touch and connection."
+      },
+      {
+        "icon": "sparkles",
+        "color": "#efcfa4",
+        "label": "End",
+        "text": "Draw a bath together with rose petals and bath salts. Soak while feeding each other chocolate and sharing what you appreciate about each other."
+      }
+    ],
+    "conversation": "What makes you feel most loved\u2014words, touch, time, gifts, or acts of service\u2014and how can I give you more of it?",
+    "likes": 4932,
+    "createdAt": "2026-02-01T21:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Massage Tutorial Videos",
+        "url": "https://www.youtube.com/results?search_query=couples+massage",
+        "icon": "film"
+      }
+    ]
+  },
+  {
+    "id": "blanket-fort-movie-marathon",
+    "name": "Blanket Fort Movie Marathon",
+    "heroIcon": "home",
+    "heroColor": "#6b4c9a",
+    "vibe": [
+      "cozy",
+      "nostalgic",
+      "wholesome"
+    ],
+    "budget": "free",
+    "setting": "home",
+    "type": [
+      "rainy-day",
+      "regular"
+    ],
+    "season": [
+      "rainy-day",
+      "winter"
+    ],
+    "duration": "half-day",
+    "steps": [
+      {
+        "icon": "home",
+        "color": "#7b5caa",
+        "label": "Start",
+        "text": "Build an elaborate blanket fort in your living room using every pillow, sheet, and fairy light you own. Stock it with snacks like you're kids again."
+      },
+      {
+        "icon": "film",
+        "color": "#8b6cba",
+        "label": "Then",
+        "text": "Queue up a trilogy or series you've both been meaning to watch. Pause between films for snack runs and playful debates about plot predictions."
+      },
+      {
+        "icon": "moon",
+        "color": "#9b7cca",
+        "label": "End",
+        "text": "Fall asleep in your fort if you make it that far, or dismantle it together while recapping your favorite moments from the marathon."
+      }
+    ],
+    "conversation": "What's the most comforting thing from your childhood that you wish we could experience together?",
+    "likes": 8456,
+    "createdAt": "2026-01-25T17:30:00Z",
+    "featured": true,
+    "resources": [
+      {
+        "label": "Epic Fort Building Guide",
+        "url": "https://www.wikihow.com/Make-a-Blanket-Fort",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "id": "virtual-cooking-class-long-distance",
+    "name": "Virtual Cooking Class Showdown",
+    "heroIcon": "utensils",
+    "heroColor": "#e74c3c",
+    "vibe": [
+      "competitive",
+      "funny",
+      "wholesome"
+    ],
+    "budget": "$",
+    "setting": "home",
+    "type": [
+      "long-distance",
+      "regular"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "utensils",
+        "color": "#ed5f50",
+        "label": "Start",
+        "text": "Sign up for the same virtual cooking class and shop for ingredients beforehand. Set up your phones so you can see each other's kitchen chaos unfold."
+      },
+      {
+        "icon": "pizza",
+        "color": "#f37264",
+        "label": "Then",
+        "text": "Follow along with the chef while competing to see whose dish looks closest to the professional version. Narrate your mishaps in exaggerated cooking show style."
+      },
+      {
+        "icon": "trophy",
+        "color": "#f98578",
+        "label": "End",
+        "text": "Plate your creations beautifully, then eat together on video call while rating each other's efforts and planning to cook it together in person."
+      }
+    ],
+    "conversation": "If we opened a restaurant together, what would we serve and what would we constantly argue about in the kitchen?",
+    "likes": 3821,
+    "createdAt": "2026-01-13T18:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Virtual Cooking Classes",
+        "url": "https://www.cozymeal.com/online-cooking-classes",
+        "icon": "utensils"
+      }
+    ]
+  },
+  {
+    "id": "paint-and-sip-at-home-studio",
+    "name": "Paint & Sip At-Home Studio",
+    "heroIcon": "palette",
+    "heroColor": "#16a085",
+    "vibe": [
+      "creative",
+      "chill",
+      "quirky"
+    ],
+    "budget": "$",
+    "setting": "home",
+    "type": [
+      "regular",
+      "rainy-day"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "palette",
+        "color": "#1abc9c",
+        "label": "Start",
+        "text": "Set up your dining room as an art studio with canvases, acrylic paints, and your beverage of choice. Put on a painting tutorial video or freestyle it."
+      },
+      {
+        "icon": "wine",
+        "color": "#1fcca6",
+        "label": "Then",
+        "text": "Paint while chatting and sipping, comparing techniques and probably making a glorious mess. Try to paint each other's portraits for guaranteed laughs."
+      },
+      {
+        "icon": "sparkles",
+        "color": "#24ddb0",
+        "label": "End",
+        "text": "Sign and date your masterpieces, then decide which walls they'll grace. Take photos of your paint-splattered selves as evidence of the fun."
+      }
+    ],
+    "conversation": "If you had to describe our relationship as a painting, what colors and shapes would you use?",
+    "likes": 5234,
+    "createdAt": "2026-02-04T14:15:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Beginner Painting Tutorials",
+        "url": "https://www.youtube.com/c/TheartsheridanAcrylic",
+        "icon": "film"
+      }
+    ]
+  },
+  {
+    "id": "long-distance-stargazing-sync",
+    "name": "Long Distance Stargazing Sync",
+    "heroIcon": "telescope",
+    "heroColor": "#2c3e50",
+    "vibe": [
+      "romantic",
+      "wholesome",
+      "intellectual"
+    ],
+    "budget": "free",
+    "setting": "home",
+    "type": [
+      "long-distance"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "1-2hrs",
+    "steps": [
+      {
+        "icon": "moon",
+        "color": "#34495e",
+        "label": "Start",
+        "text": "Download a stargazing app and plan to both look at the same constellation from your different locations. Set up your phone or laptop on your porch or by a window."
+      },
+      {
+        "icon": "telescope",
+        "color": "#3c546c",
+        "label": "Then",
+        "text": "Video call while pointing out stars and planets to each other. Share myths and stories about the constellations you're both seeing."
+      },
+      {
+        "icon": "heart",
+        "color": "#445f7a",
+        "label": "End",
+        "text": "Pick a star to be 'yours' together and make a wish at the same moment. Leave the call on while you both fall asleep under the same sky."
+      }
+    ],
+    "conversation": "When we're finally in the same place, what's the first thing you want to do that we can't do through a screen?",
+    "likes": 6543,
+    "createdAt": "2026-01-17T22:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Star Walk App",
+        "url": "https://starwalk.space",
+        "icon": "telescope"
+      },
+      {
+        "label": "Sky Tonight",
+        "url": "https://skytonight.com",
+        "icon": "compass"
+      }
+    ]
+  },
+  {
+    "id": "vinyl-listening-party-2",
+    "name": "Vinyl Listening Party II",
+    "heroIcon": "headphones",
+    "heroColor": "#c0392b",
+    "vibe": [
+      "intellectual",
+      "nostalgic",
+      "sensual"
+    ],
+    "budget": "$$",
+    "setting": "home",
+    "type": [
+      "regular",
+      "anniversary"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "music",
+        "color": "#cd4436",
+        "label": "Start",
+        "text": "Each select a vinyl record that means something to you\u2014don't tell the other why yet. Set up your best speakers and pour cocktails that match each album's vibe."
+      },
+      {
+        "icon": "headphones",
+        "color": "#da4f41",
+        "label": "Then",
+        "text": "Play each album all the way through without interruption, just listening together. Hold hands, close your eyes, let the music fill the room."
+      },
+      {
+        "icon": "heart",
+        "color": "#e75a4c",
+        "label": "End",
+        "text": "After each album, share why you chose it and what memories or feelings it holds. Add new records to your 'us' collection wishlist."
+      }
+    ],
+    "conversation": "What song takes you back to a specific moment so vividly you can smell and taste it?",
+    "likes": 4123,
+    "createdAt": "2026-01-30T19:45:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Vinyl Record Stores",
+        "url": "https://www.vinylmeplease.com",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "breakfast-in-bed-role-reversal",
+    "name": "Breakfast in Bed Role Reversal",
+    "heroIcon": "coffee",
+    "heroColor": "#d4a373",
+    "vibe": [
+      "wholesome",
+      "romantic",
+      "funny"
+    ],
+    "budget": "$",
+    "setting": "home",
+    "type": [
+      "anniversary",
+      "weeknight-quick"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "1-2hrs",
+    "steps": [
+      {
+        "icon": "coffee",
+        "color": "#ddb183",
+        "label": "Start",
+        "text": "Whoever usually makes breakfast stays in bed this time. The other sneaks to the kitchen to prepare an elaborate spread with all their favorites."
+      },
+      {
+        "icon": "cake",
+        "color": "#e6bf93",
+        "label": "Then",
+        "text": "Serve breakfast on a tray with flowers, the newspaper, and a handwritten note. Climb back into bed to eat together slowly, no rushing allowed."
+      },
+      {
+        "icon": "heart",
+        "color": "#efcda3",
+        "label": "End",
+        "text": "Spend the morning in pajamas, taking turns reading articles aloud and planning a lazy day with absolutely no obligations."
+      }
+    ],
+    "conversation": "What small gesture of mine makes you feel most cared for, even when it seems insignificant?",
+    "likes": 7891,
+    "createdAt": "2026-02-02T08:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Fancy Breakfast Recipes",
+        "url": "https://www.bonappetit.com/recipes/breakfast",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "id": "forest-bathing-meditation-walk",
+    "name": "Forest Bathing Meditation Walk",
+    "heroIcon": "trees",
+    "heroColor": "#27ae60",
+    "vibe": [
+      "wholesome",
+      "romantic",
+      "chill"
+    ],
+    "budget": "free",
+    "setting": "nature",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "spring",
+      "fall"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "trees",
+        "color": "#2ecc71",
+        "label": "Start",
+        "text": "Drive to a nearby forest trail and start walking slowly\u2014much slower than usual. Practice the Japanese art of shinrin-yoku by engaging all five senses."
+      },
+      {
+        "icon": "flower",
+        "color": "#35d67d",
+        "label": "Then",
+        "text": "Take turns guiding each other through sensory exercises: touch bark, smell moss, listen to birdsong. Walk in comfortable silence for stretches."
+      },
+      {
+        "icon": "heart",
+        "color": "#3ce089",
+        "label": "End",
+        "text": "Find a peaceful spot to sit together and just breathe. Share one thing you noticed about nature and one thing you noticed about each other."
+      }
+    ],
+    "conversation": "When do you feel most at peace, and how can I help create more of those moments for you?",
+    "likes": 5678,
+    "createdAt": "2026-01-21T11:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Trail Finder",
+        "url": "https://www.alltrails.com",
+        "icon": "map"
+      },
+      {
+        "label": "Forest Bathing Guide",
+        "url": "https://www.shinrin-yoku.org",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "id": "kayak-sunrise-adventure",
+    "name": "Kayak Sunrise Adventure",
+    "heroIcon": "waves",
+    "heroColor": "#3498db",
+    "vibe": [
+      "adventurous",
+      "romantic",
+      "active"
+    ],
+    "budget": "$",
+    "setting": "outdoor",
+    "type": [
+      "regular",
+      "anniversary"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "waves",
+        "color": "#5dade2",
+        "label": "Start",
+        "text": "Wake up before dawn and arrive at a lake or calm river as the sky begins to lighten. Launch your kayaks in the pre-dawn silence."
+      },
+      {
+        "icon": "sun",
+        "color": "#85c1e9",
+        "label": "Then",
+        "text": "Paddle out to the middle and float together as the sun breaks the horizon. Watch how the light transforms the water while staying perfectly still and quiet."
+      },
+      {
+        "icon": "coffee",
+        "color": "#aed6f1",
+        "label": "End",
+        "text": "Paddle to shore and share a thermos of coffee with pastries you packed. Talk about how different the world looks in morning light."
+      }
+    ],
+    "conversation": "What's worth waking up early for, and would you do it with me every week if I asked?",
+    "likes": 6234,
+    "createdAt": "2026-01-09T05:45:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Kayak Rentals Near You",
+        "url": "https://www.outdoorsy.com/rv-rental/kayak",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "sunset-picnic-cliff-edge",
+    "name": "Sunset Picnic at Cliff's Edge",
+    "heroIcon": "mountain",
+    "heroColor": "#95a5a6",
+    "vibe": [
+      "romantic",
+      "adventurous",
+      "luxe"
+    ],
+    "budget": "$$",
+    "setting": "outdoor",
+    "type": [
+      "anniversary",
+      "first-date"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "mountain",
+        "color": "#a9b4b5",
+        "label": "Start",
+        "text": "Hike to a scenic overlook with a packed gourmet picnic: fresh bread, cheese, charcuterie, wine, and something sweet. Arrive with time before sunset."
+      },
+      {
+        "icon": "wine",
+        "color": "#bdc3c7",
+        "label": "Then",
+        "text": "Spread out a blanket at the cliff edge and feast while watching the sky transform through a dozen shades of gold and pink."
+      },
+      {
+        "icon": "star",
+        "color": "#d1d5d6",
+        "label": "End",
+        "text": "Stay as stars emerge one by one. Hike back by headlamp, holding hands on the trail and replaying the best moments of the view."
+      }
+    ],
+    "conversation": "If this moment was a postcard we sent to our future selves, what would we write on the back?",
+    "likes": 8901,
+    "createdAt": "2026-01-26T17:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Scenic Hiking Trails",
+        "url": "https://www.alltrails.com/parks",
+        "icon": "compass"
+      }
+    ]
+  },
+  {
+    "id": "botanical-garden-photography-date",
+    "name": "Botanical Garden Photography Date",
+    "heroIcon": "flower",
+    "heroColor": "#e91e63",
+    "vibe": [
+      "creative",
+      "romantic",
+      "chill"
+    ],
+    "budget": "$",
+    "setting": "outdoor",
+    "type": [
+      "first-date",
+      "regular"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "flower",
+        "color": "#f06292",
+        "label": "Start",
+        "text": "Enter a botanical garden with your phone cameras ready for a photography challenge: capture beauty, color, texture, and each other."
+      },
+      {
+        "icon": "camera",
+        "color": "#f48fb1",
+        "label": "Then",
+        "text": "Wander through different garden rooms\u2014tropical greenhouse, rose garden, zen rock garden. Take candid shots of each other interacting with the flowers."
+      },
+      {
+        "icon": "gift",
+        "color": "#f8bbd0",
+        "label": "End",
+        "text": "Stop at the garden cafe to review your photos and pick favorites. Create a shared album and maybe pick up seeds to start a garden together."
+      }
+    ],
+    "conversation": "If you were a garden, what would grow in you and what would I discover if I explored carefully?",
+    "likes": 4567,
+    "createdAt": "2026-02-05T12:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Find Botanical Gardens",
+        "url": "https://www.publicgardens.org",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "wildlife-photography-stake-out",
+    "name": "Wildlife Photography Stake-Out",
+    "heroIcon": "camera",
+    "heroColor": "#795548",
+    "vibe": [
+      "adventurous",
+      "intellectual",
+      "quirky"
+    ],
+    "budget": "free",
+    "setting": "nature",
+    "type": [
+      "regular"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "half-day",
+    "steps": [
+      {
+        "icon": "compass",
+        "color": "#8d6e63",
+        "label": "Start",
+        "text": "Research a wildlife area and arrive at golden hour with cameras, binoculars, and a field guide. Find a concealed spot to wait quietly."
+      },
+      {
+        "icon": "camera",
+        "color": "#a1887f",
+        "label": "Then",
+        "text": "Practice patience as you wait for deer, birds, or other wildlife. Communicate through whispers and gestures, developing your own silent language."
+      },
+      {
+        "icon": "book",
+        "color": "#bcaaa4",
+        "label": "End",
+        "text": "Review your photos while hiking back and identify species together. Celebrate any great shots with a treat on the way home."
+      }
+    ],
+    "conversation": "What animal do you think I'm most like, and is it a compliment or an insult?",
+    "likes": 3456,
+    "createdAt": "2026-01-14T06:15:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Wildlife Spotting Tips",
+        "url": "https://www.audubon.org",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "id": "neon-mini-golf-showdown",
+    "name": "Neon Mini Golf Showdown",
+    "heroIcon": "trophy",
+    "heroColor": "#00ff88",
+    "vibe": [
+      "competitive",
+      "funny",
+      "spontaneous"
+    ],
+    "budget": "$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "double-date"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#00ff88",
+        "label": "Start",
+        "text": "Hit up the most outrageous mini golf course in town - bonus points for black lights and windmills. Make ridiculous bets for each hole."
+      },
+      {
+        "icon": "zap",
+        "color": "#00dd99",
+        "label": "Then",
+        "text": "Keep score with creative penalties - loser buys snacks, does a victory dance, or wears a silly hat for the rest of the date."
+      },
+      {
+        "icon": "beer",
+        "color": "#00bbaa",
+        "label": "End",
+        "text": "Celebrate at a nearby bar or diner. Toast to the winner and demand a rematch next time."
+      }
+    ],
+    "conversation": "What's the most competitive you've ever gotten over something completely silly?",
+    "likes": 4523,
+    "createdAt": "2026-02-14T09:30:00Z",
+    "featured": true,
+    "resources": [
+      {
+        "label": "Find Glow Golf Near You",
+        "url": "https://www.yelp.com/search?find_desc=mini+golf",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "blindfolded-taste-test",
+    "name": "Blindfolded Taste Test",
+    "heroIcon": "utensils",
+    "heroColor": "#ff6b9d",
+    "vibe": [
+      "sensual",
+      "funny",
+      "quirky"
+    ],
+    "budget": "$",
+    "setting": "home",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "1-2hrs",
+    "steps": [
+      {
+        "icon": "pizza",
+        "color": "#ff6b9d",
+        "label": "Start",
+        "text": "Each person secretly shops for 5-7 mystery foods - mix sweet, savory, weird textures. Include one intentionally bizarre item."
+      },
+      {
+        "icon": "glasses",
+        "color": "#ff5588",
+        "label": "Then",
+        "text": "Take turns blindfolding each other and feeding samples. Guess ingredients, make ridiculous faces, maybe get a little flirty with the feeding."
+      },
+      {
+        "icon": "heart",
+        "color": "#ff3366",
+        "label": "End",
+        "text": "Remove blindfolds and reveal the mystery items. Award points for correct guesses and share the weirdest thing you each bought."
+      }
+    ],
+    "conversation": "If you had to eat only one cuisine for the rest of your life, what would you choose and why?",
+    "likes": 6234,
+    "createdAt": "2026-02-11T14:20:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Blind Taste Test Ideas",
+        "url": "https://www.pinterest.com/search/pins/?q=blind%20taste%20test%20date",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "id": "dive-bar-bingo",
+    "name": "Dive Bar Bingo",
+    "heroIcon": "beer",
+    "heroColor": "#ffa500",
+    "vibe": [
+      "spontaneous",
+      "funny",
+      "quirky"
+    ],
+    "budget": "$$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "double-date"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#ffa500",
+        "label": "Start",
+        "text": "Create a bingo card with dive bar classics: neon beer signs, regulars arguing about sports, a dog, karaoke machine, peanut shells on floor, etc."
+      },
+      {
+        "icon": "compass",
+        "color": "#ff9922",
+        "label": "Then",
+        "text": "Hit 3-4 divey spots in one night. Check off squares as you spot them and order whatever looks the most questionable on the menu."
+      },
+      {
+        "icon": "trophy",
+        "color": "#ff8844",
+        "label": "End",
+        "text": "Count your bingo wins at the final stop. Loser buys the last round and has to do one karaoke song if available."
+      }
+    ],
+    "conversation": "What's the most memorable random conversation you've had with a stranger at a bar?",
+    "likes": 3892,
+    "createdAt": "2026-02-18T20:15:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Dive Bar Finder",
+        "url": "https://www.yelp.com/search?find_desc=dive+bar",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "body-paint-canvas",
+    "name": "Body Paint Canvas",
+    "heroIcon": "palette",
+    "heroColor": "#e91e63",
+    "vibe": [
+      "sensual",
+      "creative",
+      "romantic"
+    ],
+    "budget": "$",
+    "setting": "home",
+    "type": [
+      "regular"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "palette",
+        "color": "#e91e63",
+        "label": "Start",
+        "text": "Grab body-safe paints and set up a comfortable space with towels and low lighting. Put on a sultry playlist and pour some wine."
+      },
+      {
+        "icon": "sparkles",
+        "color": "#d81b60",
+        "label": "Then",
+        "text": "Take turns being the canvas and the artist. Paint designs, words, or abstract art on each other's skin - keep it playful or steamy, your call."
+      },
+      {
+        "icon": "flame",
+        "color": "#c2185b",
+        "label": "End",
+        "text": "Take photos of your masterpieces before a shared warm shower to wash away the evidence. Keep the mood going."
+      }
+    ],
+    "conversation": "What's something that makes you feel beautiful or handsome that might surprise me?",
+    "likes": 7821,
+    "createdAt": "2026-02-13T19:45:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Body Paint Safety Guide",
+        "url": "https://www.healthline.com/health/body-paint",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "id": "midnight-bowling-mayhem",
+    "name": "Midnight Bowling Mayhem",
+    "heroIcon": "zap",
+    "heroColor": "#9c27b0",
+    "vibe": [
+      "competitive",
+      "spontaneous",
+      "funny"
+    ],
+    "budget": "$$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "moon",
+        "color": "#9c27b0",
+        "label": "Start",
+        "text": "Find late-night cosmic bowling with black lights and loud music. Order terrible bowling alley nachos and pick the ugliest rental shoes."
+      },
+      {
+        "icon": "trophy",
+        "color": "#8e24aa",
+        "label": "Then",
+        "text": "Bowl with ridiculous handicaps - wrong hand only, eyes closed, granny style, or through your legs. Make up new scoring rules as you go."
+      },
+      {
+        "icon": "party-popper",
+        "color": "#7b1fa2",
+        "label": "End",
+        "text": "Celebrate whoever bowled the worst score with the 'Golden Gutter' award. Grab late-night diner food and laugh about your worst throws."
+      }
+    ],
+    "conversation": "What activity are you surprisingly terrible at but still love doing anyway?",
+    "likes": 5103,
+    "createdAt": "2026-02-16T22:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Cosmic Bowling Finder",
+        "url": "https://www.google.com/maps/search/cosmic+bowling+near+me",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "tandem-massage-trade",
+    "name": "Tandem Massage Trade",
+    "heroIcon": "sparkles",
+    "heroColor": "#ff1744",
+    "vibe": [
+      "sensual",
+      "romantic",
+      "chill"
+    ],
+    "budget": "free",
+    "setting": "home",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "1-2hrs",
+    "steps": [
+      {
+        "icon": "candle",
+        "color": "#ff1744",
+        "label": "Start",
+        "text": "Set the scene with candles, warm oil, soft music, and fluffy towels. Dim the lights and turn off your phones completely."
+      },
+      {
+        "icon": "heart",
+        "color": "#f01440",
+        "label": "Then",
+        "text": "Take turns giving each other 20-minute massages. Ask what feels good, experiment with pressure, and focus entirely on their pleasure."
+      },
+      {
+        "icon": "flame",
+        "color": "#e50914",
+        "label": "End",
+        "text": "Stay wrapped in warm blankets and enjoy the relaxed intimacy. Let the evening unfold naturally from there."
+      }
+    ],
+    "conversation": "What does physical touch mean to you in a relationship, beyond just the obvious?",
+    "likes": 8456,
+    "createdAt": "2026-02-10T18:00:00Z",
+    "featured": true,
+    "resources": [
+      {
+        "label": "Couples Massage Tutorial",
+        "url": "https://www.youtube.com/results?search_query=couples+massage+tutorial",
+        "icon": "film"
+      }
+    ]
+  },
+  {
+    "id": "scavenger-hunt-showdown",
+    "name": "Scavenger Hunt Showdown",
+    "heroIcon": "compass",
+    "heroColor": "#00bcd4",
+    "vibe": [
+      "competitive",
+      "spontaneous",
+      "adventurous"
+    ],
+    "budget": "$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "double-date"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#00bcd4",
+        "label": "Start",
+        "text": "Create rival teams and lists of photo challenges: strangers doing your pose, weird storefront finds, free samples collected, pigeons counted, etc."
+      },
+      {
+        "icon": "camera",
+        "color": "#00acc1",
+        "label": "Then",
+        "text": "Set a 2-hour timer and race through downtown checking off items. Get creative, talk to strangers, and document everything with photos."
+      },
+      {
+        "icon": "trophy",
+        "color": "#0097a7",
+        "label": "End",
+        "text": "Meet at a bar to tally points and share your best photos. Losers buy the first round and have to recreate their most embarrassing photo."
+      }
+    ],
+    "conversation": "When was the last time you did something that made you feel like a kid again?",
+    "likes": 4967,
+    "createdAt": "2026-02-15T11:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Scavenger Hunt Ideas",
+        "url": "https://www.pinterest.com/search/pins/?q=photo%20scavenger%20hunt%20ideas",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "id": "karaoke-roulette",
+    "name": "Karaoke Roulette",
+    "heroIcon": "music",
+    "heroColor": "#ff5722",
+    "vibe": [
+      "funny",
+      "spontaneous",
+      "quirky"
+    ],
+    "budget": "$$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "double-date"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "ticket",
+        "color": "#ff5722",
+        "label": "Start",
+        "text": "Book a private karaoke room. Each person writes down 5 ridiculous song challenges for the other - different genres, decades, or languages."
+      },
+      {
+        "icon": "music",
+        "color": "#f4511e",
+        "label": "Then",
+        "text": "Draw songs from a hat and perform them no matter how badly you know the lyrics. Extra points for committing to the performance with full choreography."
+      },
+      {
+        "icon": "crown",
+        "color": "#e64a19",
+        "label": "End",
+        "text": "End with a dramatic duet chosen together. Record a video of your grand finale and celebrate surviving with drinks."
+      }
+    ],
+    "conversation": "If you could have a superpower but only for karaoke, what would it be?",
+    "likes": 5689,
+    "createdAt": "2026-02-12T21:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Find Karaoke Rooms",
+        "url": "https://www.yelp.com/search?find_desc=karaoke",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "breakfast-bed-bonanza",
+    "name": "Breakfast Bed Bonanza",
+    "heroIcon": "coffee",
+    "heroColor": "#8d6e63",
+    "vibe": [
+      "romantic",
+      "cozy",
+      "sensual"
+    ],
+    "budget": "$",
+    "setting": "home",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "coffee",
+        "color": "#8d6e63",
+        "label": "Start",
+        "text": "One person sneaks out to prepare an indulgent breakfast spread - pancakes, fresh fruit, fancy coffee, mimosas. Make it look Instagram-worthy."
+      },
+      {
+        "icon": "heart",
+        "color": "#795548",
+        "label": "Then",
+        "text": "Bring it back to bed and spend the morning feeding each other, talking, and deliberately avoiding getting up. Put on a comfort show or music."
+      },
+      {
+        "icon": "sparkles",
+        "color": "#6d4c41",
+        "label": "End",
+        "text": "Stay in pajamas and let the slow morning turn into whatever feels right - nap together, shower together, or just enjoy the laziness."
+      }
+    ],
+    "conversation": "What does a perfect lazy morning look like to you?",
+    "likes": 7234,
+    "createdAt": "2026-02-09T08:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Breakfast in Bed Recipes",
+        "url": "https://www.pinterest.com/search/pins/?q=breakfast%20in%20bed%20ideas",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "id": "rooftop-stargazing-session",
+    "name": "Rooftop Stargazing",
+    "heroIcon": "telescope",
+    "heroColor": "#1a237e",
+    "vibe": [
+      "romantic",
+      "chill",
+      "intellectual"
+    ],
+    "budget": "free",
+    "setting": "outdoor",
+    "type": [
+      "regular"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "moon",
+        "color": "#1a237e",
+        "label": "Start",
+        "text": "Find a rooftop or open space away from city lights. Bring blankets, pillows, and a star map app on your phone."
+      },
+      {
+        "icon": "telescope",
+        "color": "#283593",
+        "label": "Then",
+        "text": "Lie together identifying constellations and planets. Share made-up stories about the stars or talk about space, existence, and your place in the universe."
+      },
+      {
+        "icon": "heart",
+        "color": "#303f9f",
+        "label": "End",
+        "text": "Stay until you spot a shooting star or just feel completely at peace. Make a wish together before packing up."
+      }
+    ],
+    "conversation": "If you could ask the universe one question and get a definitive answer, what would you ask?",
+    "likes": 6845,
+    "createdAt": "2026-02-17T23:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Star Walk App",
+        "url": "https://starwalk.space/",
+        "icon": "telescope"
+      }
+    ]
+  },
+  {
+    "id": "thrift-store-challenge",
+    "name": "Thrift Store Challenge",
+    "heroIcon": "gift",
+    "heroColor": "#4caf50",
+    "vibe": [
+      "quirky",
+      "funny",
+      "competitive"
+    ],
+    "budget": "$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "double-date"
+    ],
+    "season": [
+      "any",
+      "rainy-day"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#4caf50",
+        "label": "Start",
+        "text": "Set a $10-15 budget each and hit multiple thrift stores. Challenge: find the most outrageous complete outfit for your partner."
+      },
+      {
+        "icon": "gem",
+        "color": "#43a047",
+        "label": "Then",
+        "text": "Hunt for the wildest patterns, weirdest accessories, and most absurd combinations. Bonus points if it somehow works together."
+      },
+      {
+        "icon": "camera",
+        "color": "#388e3c",
+        "label": "End",
+        "text": "Model your outfits at home or in public if you're brave. Take photos, laugh until you cry, and maybe actually keep one weird piece."
+      }
+    ],
+    "conversation": "What's the weirdest fashion trend you secretly loved or wish would come back?",
+    "likes": 5421,
+    "createdAt": "2026-02-14T15:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Best Thrift Store Tips",
+        "url": "https://www.goodwill.org/shopping-tips/",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "id": "forest-bathing-ritual",
+    "name": "Forest Bathing Ritual",
+    "heroIcon": "trees",
+    "heroColor": "#2e7d32",
+    "vibe": [
+      "chill",
+      "romantic",
+      "wholesome"
+    ],
+    "budget": "free",
+    "setting": "nature",
+    "type": [
+      "regular"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "duration": "half-day",
+    "steps": [
+      {
+        "icon": "trees",
+        "color": "#2e7d32",
+        "label": "Start",
+        "text": "Drive to a peaceful forest trail. Leave phones in the car and bring only water and a blanket. Commit to being fully present."
+      },
+      {
+        "icon": "heart",
+        "color": "#388e3c",
+        "label": "Then",
+        "text": "Walk slowly, noticing textures, smells, sounds. Hold hands in silence. Find a quiet spot to sit and just breathe together for 20 minutes."
+      },
+      {
+        "icon": "sparkles",
+        "color": "#43a047",
+        "label": "End",
+        "text": "Share what you noticed and felt during the silence. Walk back refreshed and stop for a simple meal together."
+      }
+    ],
+    "conversation": "When was the last time you felt completely at peace, and what created that feeling?",
+    "likes": 4098,
+    "createdAt": "2026-02-11T10:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Forest Bathing Guide",
+        "url": "https://www.nature.org/en-us/about-us/where-we-work/united-states/forest-bathing/",
+        "icon": "book"
+      },
+      {
+        "label": "Find Trails Near You",
+        "url": "https://www.alltrails.com/",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "improv-comedy-night",
+    "name": "Improv Comedy Night",
+    "heroIcon": "party-popper",
+    "heroColor": "#ffd600",
+    "vibe": [
+      "funny",
+      "spontaneous",
+      "quirky"
+    ],
+    "budget": "$$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "double-date"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "ticket",
+        "color": "#ffd600",
+        "label": "Start",
+        "text": "Get tickets to a local improv show. Grab drinks beforehand and come up with the most ridiculous audience suggestions to yell out."
+      },
+      {
+        "icon": "zap",
+        "color": "#ffc400",
+        "label": "Then",
+        "text": "Watch the chaos unfold and laugh until your face hurts. If they ask for volunteers, push each other to go on stage."
+      },
+      {
+        "icon": "popcorn",
+        "color": "#ffab00",
+        "label": "End",
+        "text": "Recreate your favorite scene at a nearby bar. Try doing improv with each other using random prompts from strangers."
+      }
+    ],
+    "conversation": "If you had to do stand-up comedy right now, what embarrassing story about yourself would you tell?",
+    "likes": 3765,
+    "createdAt": "2026-02-19T20:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Find Improv Shows",
+        "url": "https://www.eventbrite.com/d/online/improv-comedy/",
+        "icon": "ticket"
+      }
+    ]
+  },
+  {
+    "id": "silent-disco-living-room",
+    "name": "Silent Disco Living Room",
+    "heroIcon": "headphones",
+    "heroColor": "#e91e63",
+    "vibe": [
+      "quirky",
+      "funny",
+      "spontaneous"
+    ],
+    "budget": "free",
+    "setting": "home",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "1-2hrs",
+    "steps": [
+      {
+        "icon": "headphones",
+        "color": "#e91e63",
+        "label": "Start",
+        "text": "Each person puts on headphones and creates a secret playlist of wildly different music - death metal, pop, classical, whatever."
+      },
+      {
+        "icon": "zap",
+        "color": "#d81b60",
+        "label": "Then",
+        "text": "Dance like nobody's watching (because you can't hear each other's music). Try to guess what the other person is listening to based on their moves."
+      },
+      {
+        "icon": "party-popper",
+        "color": "#c2185b",
+        "label": "End",
+        "text": "Take off headphones simultaneously and share what you were jamming to. Laugh at how ridiculous you both looked."
+      }
+    ],
+    "conversation": "What song never fails to make you dance, no matter where you are?",
+    "likes": 6723,
+    "createdAt": "2026-02-13T19:15:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Dance Party Playlists",
+        "url": "https://open.spotify.com/search/dance%20party",
+        "icon": "music"
+      }
+    ]
+  },
+  {
+    "id": "sunset-picnic-summit",
+    "name": "Sunset Picnic Summit",
+    "heroIcon": "mountain",
+    "heroColor": "#ff6f00",
+    "vibe": [
+      "romantic",
+      "adventurous",
+      "wholesome"
+    ],
+    "budget": "$",
+    "setting": "outdoor",
+    "type": [
+      "regular"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "mountain",
+        "color": "#ff6f00",
+        "label": "Start",
+        "text": "Pack a backpack with wine, cheese, crackers, and chocolate. Hike to a scenic overlook that faces west for sunset views."
+      },
+      {
+        "icon": "sun",
+        "color": "#f57c00",
+        "label": "Then",
+        "text": "Spread out a blanket and enjoy your picnic as the sun starts to drop. Talk, laugh, and soak in the golden hour light together."
+      },
+      {
+        "icon": "heart",
+        "color": "#e65100",
+        "label": "End",
+        "text": "Watch the full sunset in comfortable silence or wrapped up together. Use phone flashlights to hike back down as dusk settles."
+      }
+    ],
+    "conversation": "What's a moment in your life that felt absolutely perfect while it was happening?",
+    "likes": 8234,
+    "createdAt": "2026-02-10T17:45:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Sunset Time Calculator",
+        "url": "https://www.timeanddate.com/sun/",
+        "icon": "sun"
+      },
+      {
+        "label": "Hiking Trails",
+        "url": "https://www.alltrails.com/",
+        "icon": "mountain"
+      }
+    ]
+  },
+  {
+    "id": "wine-paint-sip",
+    "name": "Wine & Paint Sip",
+    "heroIcon": "wine",
+    "heroColor": "#6a1b9a",
+    "vibe": [
+      "creative",
+      "chill",
+      "funny"
+    ],
+    "budget": "$$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "double-date"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "wine",
+        "color": "#6a1b9a",
+        "label": "Start",
+        "text": "Book a paint and sip class or set up your own version at home with cheap canvases and acrylics. Pour generously."
+      },
+      {
+        "icon": "palette",
+        "color": "#7b1fa2",
+        "label": "Then",
+        "text": "Paint whatever you want while getting progressively tipsy. Compliment each other's 'artistic vision' no matter how bad it looks."
+      },
+      {
+        "icon": "gift",
+        "color": "#8e24aa",
+        "label": "End",
+        "text": "Exchange paintings as gifts to each other. Hang them somewhere visible as a permanent reminder of this ridiculous night."
+      }
+    ],
+    "conversation": "If you could be instantly talented at any art form, which would you choose?",
+    "likes": 5892,
+    "createdAt": "2026-02-16T18:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Paint & Sip Events",
+        "url": "https://www.eventbrite.com/d/online/paint-and-sip/",
+        "icon": "ticket"
+      }
+    ]
+  },
+  {
+    "id": "moonlight-beach-walk",
+    "name": "Moonlight Beach Walk",
+    "heroIcon": "moon",
+    "heroColor": "#0277bd",
+    "vibe": [
+      "romantic",
+      "sensual",
+      "chill"
+    ],
+    "budget": "free",
+    "setting": "nature",
+    "type": [
+      "regular"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "moon",
+        "color": "#0277bd",
+        "label": "Start",
+        "text": "Wait until after sunset and head to the beach. Bring a blanket and maybe a bottle to share. Lose the shoes and feel the sand."
+      },
+      {
+        "icon": "heart",
+        "color": "#0288d1",
+        "label": "Then",
+        "text": "Walk along the water's edge holding hands or with arms around each other. Let the waves wash over your feet and listen to the ocean."
+      },
+      {
+        "icon": "sparkles",
+        "color": "#039be5",
+        "label": "End",
+        "text": "Find a quiet spot to lay down your blanket. Cuddle up and watch the moonlight on the water until you're ready to leave."
+      }
+    ],
+    "conversation": "What's your favorite memory involving water - ocean, lake, pool, or rain?",
+    "likes": 7456,
+    "createdAt": "2026-02-15T21:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Find Beaches Near You",
+        "url": "https://www.google.com/maps/search/beaches+near+me",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "arcade-bar-battle",
+    "name": "Arcade Bar Battle",
+    "heroIcon": "gamepad",
+    "heroColor": "#d32f2f",
+    "vibe": [
+      "competitive",
+      "nostalgic",
+      "funny"
+    ],
+    "budget": "$$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "double-date"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "gamepad",
+        "color": "#d32f2f",
+        "label": "Start",
+        "text": "Hit up an arcade bar with classic games. Set a token budget and declare war - best 2 out of 3 wins in different game genres."
+      },
+      {
+        "icon": "zap",
+        "color": "#c62828",
+        "label": "Then",
+        "text": "Battle it out in everything from racing to shooting to claw machines. Talk maximum trash and celebrate every victory obnoxiously."
+      },
+      {
+        "icon": "trophy",
+        "color": "#b71c1c",
+        "label": "End",
+        "text": "End with a team game like co-op zombie shooter. Cool down with drinks and plan your rematch while munching on bar snacks."
+      }
+    ],
+    "conversation": "What's your most prized gaming achievement or high score, and why does it matter to you?",
+    "likes": 6134,
+    "createdAt": "2026-02-12T19:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Find Arcade Bars",
+        "url": "https://www.yelp.com/search?find_desc=arcade+bar",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "spicy-food-gauntlet",
+    "name": "Spicy Food Gauntlet",
+    "heroIcon": "flame",
+    "heroColor": "#ff3d00",
+    "vibe": [
+      "competitive",
+      "adventurous",
+      "funny"
+    ],
+    "budget": "$",
+    "setting": "home",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "flame",
+        "color": "#ff3d00",
+        "label": "Start",
+        "text": "Each person buys 5 progressively spicier items - hot sauces, chips, candies, etc. Line them up from 'warm-up' to 'oh god why'."
+      },
+      {
+        "icon": "zap",
+        "color": "#dd2c00",
+        "label": "Then",
+        "text": "Take turns trying each level together. Film reactions, have milk standing by, and see who taps out first. No judgment for quitting."
+      },
+      {
+        "icon": "trophy",
+        "color": "#bf360c",
+        "label": "End",
+        "text": "Cool down with ice cream or popsicles. Laugh at the video footage and vow to never eat the hottest one again (you will)."
+      }
+    ],
+    "conversation": "What's the dumbest dare or challenge you've ever accepted, and did you regret it?",
+    "likes": 4756,
+    "createdAt": "2026-02-18T18:45:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Hot Sauce Scoville Scale",
+        "url": "https://www.cayennediane.com/the-scoville-scale/",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "id": "outdoor-movie-magic",
+    "name": "Outdoor Movie Magic",
+    "heroIcon": "film",
+    "heroColor": "#1565c0",
+    "vibe": [
+      "romantic",
+      "cozy",
+      "nostalgic"
+    ],
+    "budget": "$",
+    "setting": "outdoor",
+    "type": [
+      "regular"
+    ],
+    "season": [
+      "summer",
+      "fall"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "film",
+        "color": "#1565c0",
+        "label": "Start",
+        "text": "Find an outdoor movie screening or set up your own with a projector in the backyard. Bring blankets, pillows, and cozy layers."
+      },
+      {
+        "icon": "popcorn",
+        "color": "#1976d2",
+        "label": "Then",
+        "text": "Settle in with movie snacks and drinks. Cuddle up under blankets as the sun sets and the movie starts. Whisper commentary to each other."
+      },
+      {
+        "icon": "heart",
+        "color": "#1e88e5",
+        "label": "End",
+        "text": "Stay wrapped up together after the credits roll. Talk about the movie under the stars before packing up reluctantly."
+      }
+    ],
+    "conversation": "What movie from your childhood do you wish you could watch again for the first time?",
+    "likes": 5567,
+    "createdAt": "2026-02-14T20:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Find Outdoor Movies",
+        "url": "https://www.eventbrite.com/d/online/outdoor-movies/",
+        "icon": "ticket"
+      }
+    ]
+  },
+  {
+    "id": "rooftop-stargazing-picnic",
+    "name": "Rooftop Stargazing Picnic",
+    "heroIcon": "telescope",
+    "heroColor": "#1e3a8a",
+    "vibe": [
+      "romantic",
+      "nostalgic"
+    ],
+    "budget": "$",
+    "setting": "city",
+    "type": [
+      "anniversary",
+      "regular"
+    ],
+    "season": [
+      "summer",
+      "fall"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "shopping-bag",
+        "color": "#3b82f6",
+        "label": "Start",
+        "text": "Pack a basket with cheese, crackers, fruit, and sparkling cider. Bring a blanket and download a stargazing app to identify constellations."
+      },
+      {
+        "icon": "map-pin",
+        "color": "#6366f1",
+        "label": "Then",
+        "text": "Find a rooftop with minimal light pollution\u2014your building, a parking garage top floor, or a rooftop bar. Spread out your blanket and set up your picnic as the sun sets."
+      },
+      {
+        "icon": "sparkles",
+        "color": "#8b5cf6",
+        "label": "End",
+        "text": "Use the app to find planets, constellations, and satellites. Share stories about the first time you met under these same stars."
+      }
+    ],
+    "conversation": "If you could name a star after any moment in our relationship, which moment would it be?",
+    "likes": 4521,
+    "createdAt": "2026-01-15T08:30:00Z",
+    "featured": true,
+    "resources": [
+      {
+        "label": "SkyView App",
+        "url": "https://apps.apple.com/us/app/skyview-lite/id413936865",
+        "icon": "smartphone"
+      },
+      {
+        "label": "Light Pollution Map",
+        "url": "https://www.lightpollutionmap.info",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "midnight-museum-tour",
+    "name": "Midnight Museum Tour",
+    "heroIcon": "landmark",
+    "heroColor": "#92400e",
+    "vibe": [
+      "intellectual",
+      "romantic"
+    ],
+    "budget": "$$",
+    "setting": "city",
+    "type": [
+      "first-date",
+      "regular"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "ticket",
+        "color": "#b45309",
+        "label": "Start",
+        "text": "Book tickets for a late-night museum event (many museums offer evening hours on Fridays). Dress up a bit\u2014it's a special occasion."
+      },
+      {
+        "icon": "eye",
+        "color": "#d97706",
+        "label": "Then",
+        "text": "Wander through quieter galleries without crowds. Take turns choosing one piece of art to stand in front of for five full minutes in silence."
+      },
+      {
+        "icon": "coffee",
+        "color": "#f59e0b",
+        "label": "End",
+        "text": "Grab late-night coffee or dessert at a nearby cafe. Discuss what you noticed during your five minutes of silent observation."
+      }
+    ],
+    "conversation": "What's a piece of art, music, or writing that changed how you see the world?",
+    "likes": 3847,
+    "createdAt": "2026-01-22T14:15:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Museum Late Nights",
+        "url": "https://www.timeout.com/things-to-do/museum-late-nights",
+        "icon": "clock"
+      }
+    ]
+  },
+  {
+    "id": "vinyl-record-hunt",
+    "name": "Vinyl Record Hunt",
+    "heroIcon": "music",
+    "heroColor": "#7c2d12",
+    "vibe": [
+      "nostalgic",
+      "chill"
+    ],
+    "budget": "$$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "first-date"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "list",
+        "color": "#9a3412",
+        "label": "Start",
+        "text": "Each person writes down three albums that shaped their teenage years. Set a $20 budget per person."
+      },
+      {
+        "icon": "search",
+        "color": "#c2410c",
+        "label": "Then",
+        "text": "Hit up local record stores and search for each other's albums. Browse, listen at listening stations, and share stories about why each album matters."
+      },
+      {
+        "icon": "headphones",
+        "color": "#ea580c",
+        "label": "End",
+        "text": "Go home and play your finds. Trade off picking songs and explaining what each one meant to you back then versus now."
+      }
+    ],
+    "conversation": "What song instantly transports you back to a specific moment in your past?",
+    "likes": 2934,
+    "createdAt": "2026-02-03T11:20:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Record Store Day",
+        "url": "https://recordstoreday.com",
+        "icon": "calendar"
+      },
+      {
+        "label": "Discogs Database",
+        "url": "https://www.discogs.com",
+        "icon": "database"
+      }
+    ]
+  },
+  {
+    "id": "architecture-walk-and-sketch-2",
+    "name": "Architecture Walk & Sketch II",
+    "heroIcon": "compass",
+    "heroColor": "#334155",
+    "vibe": [
+      "intellectual",
+      "creative"
+    ],
+    "budget": "free",
+    "setting": "city",
+    "type": [
+      "regular",
+      "first-date"
+    ],
+    "season": [
+      "spring",
+      "fall"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#475569",
+        "label": "Start",
+        "text": "Research a historic neighborhood and bring small sketchbooks and pencils. No art skills required\u2014stick figures welcome."
+      },
+      {
+        "icon": "building",
+        "color": "#64748b",
+        "label": "Then",
+        "text": "Walk slowly, noticing doorways, cornices, windows, and details. Every 15 minutes, stop and each sketch the same building facade for 5 minutes."
+      },
+      {
+        "icon": "palette",
+        "color": "#94a3b8",
+        "label": "End",
+        "text": "Compare sketches and laugh at the different details you each noticed. Grab a drink and flip through your sketchbooks like a shared travel journal."
+      }
+    ],
+    "conversation": "If you could design our dream home, what's the one architectural feature you'd insist on?",
+    "likes": 1876,
+    "createdAt": "2026-01-08T09:45:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Urban Sketchers",
+        "url": "https://www.urbansketchers.org",
+        "icon": "pen-tool"
+      }
+    ]
+  },
+  {
+    "id": "speakeasy-hunt",
+    "name": "Speakeasy Hunt",
+    "heroIcon": "martini",
+    "heroColor": "#581c87",
+    "vibe": [
+      "adventurous",
+      "romantic"
+    ],
+    "budget": "$$$",
+    "setting": "city",
+    "type": [
+      "anniversary",
+      "regular"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "search",
+        "color": "#6b21a8",
+        "label": "Start",
+        "text": "Research three hidden speakeasy bars in your city\u2014the kind with secret entrances through phone booths or behind bookshelf doors. Make reservations if needed."
+      },
+      {
+        "icon": "door-open",
+        "color": "#7c3aed",
+        "label": "Then",
+        "text": "Find each entrance (the hunt is half the fun) and order craft cocktails at two locations. Dress up 1920s-style for bonus points."
+      },
+      {
+        "icon": "sparkles",
+        "color": "#8b5cf6",
+        "label": "End",
+        "text": "End at your favorite of the night and order the bartender's special. Toast to your sense of adventure and the secrets you share."
+      }
+    ],
+    "conversation": "What's a secret dream you've been keeping to yourself lately?",
+    "likes": 5632,
+    "createdAt": "2026-01-28T16:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Atlas Obscura Bars",
+        "url": "https://www.atlasobscura.com/articles/best-secret-bars",
+        "icon": "map-pin"
+      }
+    ]
+  },
+  {
+    "id": "food-cart-world-tour-2",
+    "name": "Food Cart World Tour II",
+    "heroIcon": "utensils",
+    "heroColor": "#dc2626",
+    "vibe": [
+      "adventurous",
+      "active"
+    ],
+    "budget": "$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "double-date"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#e11d48",
+        "label": "Start",
+        "text": "Map out six food carts representing different countries. Plan a walking route and come hungry but pace yourself."
+      },
+      {
+        "icon": "utensils",
+        "color": "#f43f5e",
+        "label": "Then",
+        "text": "Order small portions at each cart\u2014one dish per country. Rate each on taste, authenticity, and value. Take photos of every dish."
+      },
+      {
+        "icon": "trophy",
+        "color": "#fb7185",
+        "label": "End",
+        "text": "Tally your scores and crown a winner. Share your food tour photos and start planning next month's cuisine route."
+      }
+    ],
+    "conversation": "If you could live in any country for a year with no logistics to worry about, where would you go?",
+    "likes": 4123,
+    "createdAt": "2026-02-11T13:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Food Cart Guide",
+        "url": "https://www.yelp.com/search?find_desc=food+carts",
+        "icon": "search"
+      }
+    ]
+  },
+  {
+    "id": "graffiti-alley-photo-shoot",
+    "name": "Graffiti Alley Photo Shoot",
+    "heroIcon": "camera",
+    "heroColor": "#ea580c",
+    "vibe": [
+      "creative",
+      "active"
+    ],
+    "budget": "free",
+    "setting": "city",
+    "type": [
+      "regular",
+      "first-date"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "1-2hrs",
+    "steps": [
+      {
+        "icon": "map-pin",
+        "color": "#f59e0b",
+        "label": "Start",
+        "text": "Find your city's street art district or graffiti alley. Bring your phone or camera and dress in solid colors that pop."
+      },
+      {
+        "icon": "camera",
+        "color": "#fbbf24",
+        "label": "Then",
+        "text": "Take turns being photographer and model in front of your favorite murals. Try different poses, angles, and expressions\u2014be playful and silly."
+      },
+      {
+        "icon": "heart",
+        "color": "#fcd34d",
+        "label": "End",
+        "text": "Review photos over coffee and pick your favorites. Post one with a caption about the art and artist if known."
+      }
+    ],
+    "conversation": "If you could commission a mural about our relationship, what would it depict?",
+    "likes": 3567,
+    "createdAt": "2026-01-19T10:15:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Street Art Cities",
+        "url": "https://streetartcities.com",
+        "icon": "globe"
+      }
+    ]
+  },
+  {
+    "id": "living-room-fort-night",
+    "name": "Living Room Fort Night",
+    "heroIcon": "home",
+    "heroColor": "#0891b2",
+    "vibe": [
+      "nostalgic",
+      "cozy"
+    ],
+    "budget": "free",
+    "setting": "home",
+    "type": [
+      "rainy-day",
+      "weeknight-quick"
+    ],
+    "season": [
+      "rainy-day",
+      "winter"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "hammer",
+        "color": "#06b6d4",
+        "label": "Start",
+        "text": "Gather every blanket, pillow, and cushion in the house. Use chairs, couches, and clamps to build an elaborate blanket fort."
+      },
+      {
+        "icon": "popcorn",
+        "color": "#22d3ee",
+        "label": "Then",
+        "text": "Make popcorn and bring in snacks, drinks, and fairy lights. Queue up a movie you both loved as kids or a nostalgic TV show."
+      },
+      {
+        "icon": "heart",
+        "color": "#67e8f9",
+        "label": "End",
+        "text": "Watch your show from inside the fort, wrapped in blankets. Share childhood fort-building memories and fall asleep cozy."
+      }
+    ],
+    "conversation": "What's your favorite memory from childhood sleepovers or slumber parties?",
+    "likes": 6234,
+    "createdAt": "2026-02-05T15:45:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Fort Building Guide",
+        "url": "https://www.apartmenttherapy.com/how-to-build-a-blanket-fort-36760477",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "id": "chocolate-tasting-flight",
+    "name": "Chocolate Tasting Flight",
+    "heroColor": "#6d28d9",
+    "heroIcon": "cake",
+    "vibe": [
+      "luxe",
+      "romantic"
+    ],
+    "budget": "$$",
+    "setting": "home",
+    "type": [
+      "anniversary",
+      "regular"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "1-2hrs",
+    "steps": [
+      {
+        "icon": "shopping-cart",
+        "color": "#7c3aed",
+        "label": "Start",
+        "text": "Buy 6-8 different high-quality chocolate bars (varying cocoa percentages, origins, and types). Prepare water, bread, and pencils for note-taking."
+      },
+      {
+        "icon": "glasses",
+        "color": "#8b5cf6",
+        "label": "Then",
+        "text": "Set up a tasting like wine: observe color, smell, taste, and notice how each chocolate melts. Rate each on appearance, aroma, flavor, and finish."
+      },
+      {
+        "icon": "award",
+        "color": "#a78bfa",
+        "label": "End",
+        "text": "Compare notes and crown a winner. Use leftover chocolate to make hot cocoa or chocolate-covered strawberries together."
+      }
+    ],
+    "conversation": "What's the most luxurious or indulgent thing you've ever experienced?",
+    "likes": 4891,
+    "createdAt": "2026-01-12T12:30:00Z",
+    "featured": true,
+    "resources": [
+      {
+        "label": "Chocolate Tasting Guide",
+        "url": "https://www.seriouseats.com/how-to-taste-chocolate",
+        "icon": "book-open"
+      },
+      {
+        "label": "Bean-to-Bar Finder",
+        "url": "https://www.beantobarworld.com",
+        "icon": "search"
+      }
+    ]
+  },
+  {
+    "id": "murder-mystery-dinner",
+    "name": "Murder Mystery Dinner",
+    "heroIcon": "puzzle",
+    "heroColor": "#be123c",
+    "vibe": [
+      "funny",
+      "intellectual"
+    ],
+    "budget": "$",
+    "setting": "home",
+    "type": [
+      "double-date",
+      "regular"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "download",
+        "color": "#e11d48",
+        "label": "Start",
+        "text": "Download or buy a murder mystery game for two (or invite another couple for four players). Read character descriptions and prepare costumes from your closet."
+      },
+      {
+        "icon": "chef-hat",
+        "color": "#f43f5e",
+        "label": "Then",
+        "text": "Cook a themed dinner together matching the mystery setting (1920s cocktail party, Italian villa, etc.). Stay in character while cooking."
+      },
+      {
+        "icon": "lightbulb",
+        "color": "#fb7185",
+        "label": "End",
+        "text": "Play through the mystery over dinner, reading clues and interrogating each other. Reveal the killer and discuss who had the best performance."
+      }
+    ],
+    "conversation": "If you were a detective, what kind of cases would you want to solve?",
+    "likes": 5421,
+    "createdAt": "2026-01-25T17:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Night of Mystery",
+        "url": "https://www.nightofmystery.com",
+        "icon": "shopping-bag"
+      }
+    ]
+  },
+  {
+    "id": "home-spa-retreat",
+    "name": "Home Spa Retreat",
+    "heroIcon": "flower",
+    "heroColor": "#059669",
+    "vibe": [
+      "cozy",
+      "romantic"
+    ],
+    "budget": "$",
+    "setting": "home",
+    "type": [
+      "anniversary",
+      "regular"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "shopping-basket",
+        "color": "#10b981",
+        "label": "Start",
+        "text": "Gather face masks, bath salts, essential oils, candles, and cucumber slices. Create a spa playlist with meditation music and nature sounds."
+      },
+      {
+        "icon": "droplet",
+        "color": "#34d399",
+        "label": "Then",
+        "text": "Take turns giving each other hand massages with warm oil. Draw a bath with salts and candles, taking turns or sharing if your tub allows."
+      },
+      {
+        "icon": "sparkles",
+        "color": "#6ee7b7",
+        "label": "End",
+        "text": "Do face masks together while sipping herbal tea in robes. End with foot massages and agree to put phones away for the evening."
+      }
+    ],
+    "conversation": "What helps you feel most relaxed and recharged after a stressful week?",
+    "likes": 7234,
+    "createdAt": "2026-02-08T14:20:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "DIY Spa Recipes",
+        "url": "https://www.wellandgood.com/diy-spa-treatments/",
+        "icon": "leaf"
+      }
+    ]
+  },
+  {
+    "id": "virtual-travel-night",
+    "name": "Virtual Travel Night",
+    "heroIcon": "globe",
+    "heroColor": "#0284c7",
+    "vibe": [
+      "intellectual",
+      "cozy"
+    ],
+    "budget": "$",
+    "setting": "home",
+    "type": [
+      "long-distance",
+      "rainy-day"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#0ea5e9",
+        "label": "Start",
+        "text": "Pick a country you both want to visit someday. Research the cuisine and cook (or order) authentic dishes from that region."
+      },
+      {
+        "icon": "film",
+        "color": "#38bdf8",
+        "label": "Then",
+        "text": "Watch a travel documentary, foreign film, or take a virtual museum tour from that country. Learn five phrases in the language together."
+      },
+      {
+        "icon": "pen-tool",
+        "color": "#7dd3fc",
+        "label": "End",
+        "text": "Create a travel wishlist for that destination\u2014where you'd stay, eat, and explore. Add it to your shared bucket list and pick a savings goal."
+      }
+    ],
+    "conversation": "What destination is at the very top of your travel bucket list and why?",
+    "likes": 3142,
+    "createdAt": "2026-01-17T11:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Google Arts & Culture",
+        "url": "https://artsandculture.google.com",
+        "icon": "museum"
+      },
+      {
+        "label": "Virtual Travel Videos",
+        "url": "https://www.youtube.com/c/4KRelaxationChannel",
+        "icon": "play"
+      }
+    ]
+  },
+  {
+    "id": "sunrise-hiking-breakfast",
+    "name": "Sunrise Hiking Breakfast",
+    "heroIcon": "sun",
+    "heroColor": "#f59e0b",
+    "vibe": [
+      "active",
+      "romantic"
+    ],
+    "budget": "$",
+    "setting": "outdoor",
+    "type": [
+      "regular",
+      "anniversary"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "alarm-clock",
+        "color": "#f97316",
+        "label": "Start",
+        "text": "Set an early alarm and pack breakfast items that travel well\u2014croissants, fruit, hard-boiled eggs, coffee in a thermos. Check the sunrise time."
+      },
+      {
+        "icon": "mountain",
+        "color": "#fb923c",
+        "label": "Then",
+        "text": "Hike to a viewpoint or summit, arriving 15 minutes before sunrise. Find a good spot to sit and watch the sky change colors in silence."
+      },
+      {
+        "icon": "coffee",
+        "color": "#fdba74",
+        "label": "End",
+        "text": "Unpack breakfast as the sun rises and toast with coffee to new beginnings. Hike down leisurely and nap together in the afternoon."
+      }
+    ],
+    "conversation": "What's a new beginning or fresh start you're hoping for this year?",
+    "likes": 5876,
+    "createdAt": "2026-02-14T07:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "AllTrails",
+        "url": "https://www.alltrails.com",
+        "icon": "map"
+      },
+      {
+        "label": "Sunrise Calculator",
+        "url": "https://www.sunrise-and-sunset.com",
+        "icon": "sun"
+      }
+    ]
+  },
+  {
+    "id": "bike-and-brewery-tour",
+    "name": "Bike & Brewery Tour",
+    "heroIcon": "bike",
+    "heroColor": "#16a34a",
+    "vibe": [
+      "active",
+      "adventurous"
+    ],
+    "budget": "$$",
+    "setting": "outdoor",
+    "type": [
+      "regular",
+      "double-date"
+    ],
+    "season": [
+      "spring",
+      "fall"
+    ],
+    "duration": "half-day",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#22c55e",
+        "label": "Start",
+        "text": "Map a bike route connecting 2-3 local breweries or cideries within 10 miles total. Rent bikes if needed and pack water and snacks."
+      },
+      {
+        "icon": "beer",
+        "color": "#4ade80",
+        "label": "Then",
+        "text": "Bike between locations, stopping for one flight or pint at each brewery. Pace your drinking\u2014you're biking between stops. Chat with brewers about their process."
+      },
+      {
+        "icon": "award",
+        "color": "#86efac",
+        "label": "End",
+        "text": "Vote on your favorite beer of the day and buy a growler to take home. Bike back safely and enjoy your beer later with dinner."
+      }
+    ],
+    "conversation": "What's an activity you'd love to get better at or learn from scratch?",
+    "likes": 4567,
+    "createdAt": "2026-01-29T13:15:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Local Brewery Map",
+        "url": "https://www.brewbound.com/breweries",
+        "icon": "map-pin"
+      }
+    ]
+  },
+  {
+    "id": "outdoor-cinema-setup",
+    "name": "Outdoor Cinema Setup",
+    "heroIcon": "film",
+    "heroColor": "#1e40af",
+    "vibe": [
+      "romantic",
+      "cozy"
+    ],
+    "budget": "$$",
+    "setting": "outdoor",
+    "type": [
+      "anniversary",
+      "regular"
+    ],
+    "season": [
+      "summer"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "shopping-bag",
+        "color": "#2563eb",
+        "label": "Start",
+        "text": "Rent or borrow a projector and portable screen (or use a white sheet). Find a backyard, rooftop, or park that allows evening setups."
+      },
+      {
+        "icon": "sandwich",
+        "color": "#3b82f6",
+        "label": "Then",
+        "text": "Set up before sunset with blankets, pillows, and string lights. Prepare movie snacks\u2014popcorn, candy, drinks in a cooler. Test audio and picture."
+      },
+      {
+        "icon": "star",
+        "color": "#60a5fa",
+        "label": "End",
+        "text": "Watch your movie under the stars, cuddled up in blankets. Stay after to stargaze and talk about your favorite scenes."
+      }
+    ],
+    "conversation": "What movie can you watch over and over and never get tired of?",
+    "likes": 8234,
+    "createdAt": "2026-02-01T16:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Outdoor Projector Guide",
+        "url": "https://www.nytimes.com/wirecutter/reviews/best-outdoor-projector/",
+        "icon": "external-link"
+      }
+    ]
+  },
+  {
+    "id": "wildflower-meadow-picnic",
+    "name": "Wildflower Meadow Picnic",
+    "heroIcon": "flower",
+    "heroColor": "#db2777",
+    "vibe": [
+      "romantic",
+      "cozy"
+    ],
+    "budget": "$",
+    "setting": "nature",
+    "type": [
+      "regular",
+      "anniversary"
+    ],
+    "season": [
+      "spring"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "backpack",
+        "color": "#ec4899",
+        "label": "Start",
+        "text": "Research wildflower blooms in your area and pack a picnic basket with sandwiches, fruit, lemonade, and a blanket. Bring a flower identification book or app."
+      },
+      {
+        "icon": "flower-2",
+        "color": "#f472b6",
+        "label": "Then",
+        "text": "Find a meadow in bloom and spread your blanket among the flowers. Eat slowly, identify flowers with your app, and take photos in the field."
+      },
+      {
+        "icon": "book",
+        "color": "#f9a8d4",
+        "label": "End",
+        "text": "Read poetry or a book aloud to each other while lounging in the flowers. Press a few flowers between book pages to save as memories."
+      }
+    ],
+    "conversation": "What's a simple pleasure in nature that always makes you happy?",
+    "likes": 6543,
+    "createdAt": "2026-01-11T10:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Wildflower Identification",
+        "url": "https://www.wildflower.org",
+        "icon": "leaf"
+      }
+    ]
+  },
+  {
+    "id": "lake-kayak-adventure",
+    "name": "Lake Kayak Adventure",
+    "heroIcon": "waves",
+    "heroColor": "#0891b2",
+    "vibe": [
+      "active",
+      "adventurous"
+    ],
+    "budget": "$$",
+    "setting": "nature",
+    "type": [
+      "regular",
+      "first-date"
+    ],
+    "season": [
+      "summer"
+    ],
+    "duration": "half-day",
+    "steps": [
+      {
+        "icon": "map-pin",
+        "color": "#06b6d4",
+        "label": "Start",
+        "text": "Rent a tandem kayak or two single kayaks at a lake or calm river. Pack waterproof bags with snacks, water, sunscreen, and a dry change of clothes."
+      },
+      {
+        "icon": "compass",
+        "color": "#22d3ee",
+        "label": "Then",
+        "text": "Paddle along the shoreline exploring coves and inlets. Race each other, practice synchronized paddling, or just drift and talk. Stop at a quiet beach for snacks."
+      },
+      {
+        "icon": "ice-cream",
+        "color": "#67e8f9",
+        "label": "End",
+        "text": "Return to shore and change into dry clothes. Grab ice cream or cold drinks nearby and rehash your favorite moments on the water."
+      }
+    ],
+    "conversation": "When do you feel most adventurous and alive?",
+    "likes": 5234,
+    "createdAt": "2026-02-06T09:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Kayak Rental Finder",
+        "url": "https://www.outdoorsy.com/rv-rental/kayak-rental",
+        "icon": "search"
+      }
+    ]
+  },
+  {
+    "id": "forest-bathing-walk",
+    "name": "Forest Bathing Walk",
+    "heroIcon": "trees",
+    "heroColor": "#166534",
+    "vibe": [
+      "cozy",
+      "intellectual"
+    ],
+    "budget": "free",
+    "setting": "nature",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "fall"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#16a34a",
+        "label": "Start",
+        "text": "Find a forest trail and agree to walk slowly\u2014this is about presence, not exercise. Leave phones in the car or on silent."
+      },
+      {
+        "icon": "eye",
+        "color": "#22c55e",
+        "label": "Then",
+        "text": "Walk in silence for 20 minutes, engaging all five senses\u2014smell the earth, hear birds, feel bark textures, notice light through leaves. Stop frequently to observe."
+      },
+      {
+        "icon": "heart",
+        "color": "#4ade80",
+        "label": "End",
+        "text": "Find a log or clearing to sit together. Share what you noticed and how you feel. Walk back slowly, maintaining that peaceful energy."
+      }
+    ],
+    "conversation": "What does 'slowing down' look like in your ideal life?",
+    "likes": 2876,
+    "createdAt": "2026-01-21T08:15:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Forest Bathing Guide",
+        "url": "https://www.forestbathing.com",
+        "icon": "book-open"
+      }
+    ]
+  },
+  {
+    "id": "rainy-day-board-game-marathon",
+    "name": "Rainy Day Board Game Marathon",
+    "heroIcon": "gamepad",
+    "heroColor": "#9333ea",
+    "vibe": [
+      "competitive",
+      "cozy"
+    ],
+    "budget": "$",
+    "setting": "home",
+    "type": [
+      "rainy-day",
+      "weeknight-quick"
+    ],
+    "season": [
+      "rainy-day"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "shopping-cart",
+        "color": "#a855f7",
+        "label": "Start",
+        "text": "Pick up 2-3 new board games you've never tried (strategy, co-op, or party games). Make snacks and set up a cozy game station with drinks and music."
+      },
+      {
+        "icon": "trophy",
+        "color": "#c084fc",
+        "label": "Then",
+        "text": "Play through each game, keeping score and trash-talking playfully. Take breaks between games to stretch, snack, and discuss strategies."
+      },
+      {
+        "icon": "crown",
+        "color": "#e9d5ff",
+        "label": "End",
+        "text": "Crown an overall champion and decide which games deserve a permanent spot on your shelf. Order dinner in and play one more round of your favorite."
+      }
+    ],
+    "conversation": "What childhood game do you wish you could play right now?",
+    "likes": 4987,
+    "createdAt": "2026-02-12T14:45:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Board Game Geek",
+        "url": "https://boardgamegeek.com",
+        "icon": "star"
+      },
+      {
+        "label": "2-Player Game Guide",
+        "url": "https://www.boardgamegeek.com/thread/1993038/best-two-player-games",
+        "icon": "users"
+      }
+    ]
+  },
+  {
+    "id": "book-swap-reading-date",
+    "name": "Book Swap Reading Date",
+    "heroIcon": "book",
+    "heroColor": "#65a30d",
+    "vibe": [
+      "intellectual",
+      "cozy"
+    ],
+    "budget": "free",
+    "setting": "home",
+    "type": [
+      "long-distance",
+      "rainy-day"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "book-open",
+        "color": "#84cc16",
+        "label": "Start",
+        "text": "Each person picks a book they love and wants to share with their partner. Swap books and agree on a reading time to start together (even if apart)."
+      },
+      {
+        "icon": "coffee",
+        "color": "#a3e635",
+        "label": "Then",
+        "text": "Make tea or coffee and settle into separate cozy spots. Read for 60-90 minutes, taking notes on passages you want to discuss later."
+      },
+      {
+        "icon": "message-circle",
+        "color": "#d9f99d",
+        "label": "End",
+        "text": "Come together (in person or video call) to share initial thoughts, favorite passages, and what the book reveals about each other. Keep reading together weekly."
+      }
+    ],
+    "conversation": "What book has influenced your life philosophy or values the most?",
+    "likes": 3421,
+    "createdAt": "2026-01-26T15:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Goodreads Recommendations",
+        "url": "https://www.goodreads.com",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "id": "rooftop-stargazing-session-2",
+    "name": "Rooftop Stargazing Session II",
+    "heroIcon": "telescope",
+    "heroColor": "#1e3a8a",
+    "vibe": [
+      "romantic",
+      "intellectual",
+      "cozy"
+    ],
+    "budget": "free",
+    "setting": "city",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "any",
+      "summer"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#1e3a8a",
+        "label": "Start",
+        "text": "Find a rooftop or high floor with city views and minimal light pollution. Bring blankets and download a stargazing app like SkyView."
+      },
+      {
+        "icon": "telescope",
+        "color": "#312e81",
+        "label": "Then",
+        "text": "Identify constellations together and share the myths behind them. Challenge each other to find planets and satellites crossing the sky."
+      },
+      {
+        "icon": "heart",
+        "color": "#581c87",
+        "label": "End",
+        "text": "Make wishes on shooting stars and talk about your dreams under the night sky. Take a long-exposure photo of the stars together."
+      }
+    ],
+    "conversation": "If you could name a star after any moment in your life, which moment would you choose and why?",
+    "likes": 3421,
+    "createdAt": "2026-01-12T08:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "SkyView App",
+        "url": "https://www.terminaleleven.com/skyview/",
+        "icon": "smartphone"
+      },
+      {
+        "label": "Constellation Guide",
+        "url": "https://www.constellation-guide.com/",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "id": "candle-making-workshop",
+    "name": "Candle Lab",
+    "heroIcon": "candle",
+    "heroColor": "#f59e0b",
+    "vibe": [
+      "creative",
+      "cozy",
+      "wholesome"
+    ],
+    "budget": "$$",
+    "setting": "home",
+    "type": [
+      "regular",
+      "rainy-day"
+    ],
+    "season": [
+      "any",
+      "fall"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "shopping-bag",
+        "color": "#f59e0b",
+        "label": "Start",
+        "text": "Gather soy wax, wicks, essential oils, and mason jars from a craft store. Set up your workspace with newspapers and have all materials ready."
+      },
+      {
+        "icon": "flame",
+        "color": "#ea580c",
+        "label": "Then",
+        "text": "Melt wax together and experiment creating custom scent blends\u2014maybe one romantic, one energizing. Pour into jars and personalize with labels."
+      },
+      {
+        "icon": "gift",
+        "color": "#dc2626",
+        "label": "End",
+        "text": "While candles set, plan who you'll gift them to or keep them as mementos of the date. Light a finished one and enjoy the ambiance you created together."
+      }
+    ],
+    "conversation": "What scent immediately transports you to a specific memory, and where does it take you?",
+    "likes": 5672,
+    "createdAt": "2026-01-18T14:15:00Z",
+    "featured": true,
+    "resources": [
+      {
+        "label": "Candle Making Basics",
+        "url": "https://www.candlescience.com/learning/",
+        "icon": "book-open"
+      }
+    ]
+  },
+  {
+    "id": "farmer-market-cook-off",
+    "name": "Market Basket Challenge",
+    "heroIcon": "utensils",
+    "heroColor": "#16a34a",
+    "vibe": [
+      "creative",
+      "wholesome",
+      "competitive"
+    ],
+    "budget": "$",
+    "setting": "outdoor",
+    "type": [
+      "regular",
+      "double-date"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#16a34a",
+        "label": "Start",
+        "text": "Visit a farmer's market with a $20 budget each and 15 minutes to shop. You can't communicate\u2014choose ingredients for a dish you'll make together."
+      },
+      {
+        "icon": "utensils",
+        "color": "#15803d",
+        "label": "Then",
+        "text": "Head home and combine your random ingredients into one creative meal. Work together to make something delicious from your mystery haul."
+      },
+      {
+        "icon": "trophy",
+        "color": "#166534",
+        "label": "End",
+        "text": "Plate your creation fancy-restaurant style and taste test together. Rate it on creativity, taste, and presentation with ridiculous commentary."
+      }
+    ],
+    "conversation": "What's the most creative meal you've ever improvised with random ingredients?",
+    "likes": 4231,
+    "createdAt": "2026-01-22T10:45:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Find Local Farmers Markets",
+        "url": "https://www.localharvest.org/farmers-markets/",
+        "icon": "map"
+      },
+      {
+        "label": "Improv Cooking Tips",
+        "url": "https://www.seriouseats.com/how-to-improvise-in-kitchen",
+        "icon": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "speakeasy-cocktail-night",
+    "name": "Speakeasy Secrets",
+    "heroIcon": "martini",
+    "heroColor": "#7c2d12",
+    "vibe": [
+      "luxe",
+      "romantic",
+      "nostalgic"
+    ],
+    "budget": "$$$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "anniversary"
+    ],
+    "season": [
+      "any",
+      "winter"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#7c2d12",
+        "label": "Start",
+        "text": "Research your city's hidden speakeasies\u2014look for unmarked doors, password entries, or secret phone booth entrances. Dress up in vintage-inspired attire."
+      },
+      {
+        "icon": "martini",
+        "color": "#991b1b",
+        "label": "Then",
+        "text": "Order craft cocktails from a mixologist and ask them to surprise you with their specialty. Savor the atmosphere and the artistry behind each drink."
+      },
+      {
+        "icon": "music",
+        "color": "#7f1d1d",
+        "label": "End",
+        "text": "If there's live jazz, stay for a set and soak in the 1920s ambiance. Exchange stories about what you'd do if you lived in that era."
+      }
+    ],
+    "conversation": "If you could time travel to any decade for one night out, which would you choose and why?",
+    "likes": 6847,
+    "createdAt": "2026-02-03T19:20:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Hidden Bar Directory",
+        "url": "https://www.atlasobscura.com/articles/best-secret-bars",
+        "icon": "compass"
+      }
+    ]
+  },
+  {
+    "id": "sunrise-coffee-hike",
+    "name": "Sunrise Coffee Hike",
+    "heroIcon": "sun",
+    "heroColor": "#fb923c",
+    "vibe": [
+      "adventurous",
+      "romantic",
+      "wholesome"
+    ],
+    "budget": "free",
+    "setting": "nature",
+    "type": [
+      "regular"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "moon",
+        "color": "#fb923c",
+        "label": "Start",
+        "text": "Wake up before dawn and pack a thermos of hot coffee and breakfast treats. Drive to a nearby trail with an eastern view for the sunrise."
+      },
+      {
+        "icon": "mountain",
+        "color": "#f97316",
+        "label": "Then",
+        "text": "Hike to a viewpoint in the pre-dawn quiet, using headlamps to light the way. Find your spot and watch the sky transform from dark to brilliant colors."
+      },
+      {
+        "icon": "coffee",
+        "color": "#ea580c",
+        "label": "End",
+        "text": "Share coffee as the sun breaks the horizon and the world wakes up around you. Talk about your goals for the day, week, or life while soaking in the peaceful moment."
+      }
+    ],
+    "conversation": "What does the start of a new day symbolize for you, and what would your perfect morning routine look like?",
+    "likes": 7234,
+    "createdAt": "2026-01-28T06:15:00Z",
+    "featured": true,
+    "resources": [
+      {
+        "label": "AllTrails Sunrise Hikes",
+        "url": "https://www.alltrails.com/",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "record-store-listening-party",
+    "name": "Vinyl Discovery Hour",
+    "heroIcon": "music",
+    "heroColor": "#dc2626",
+    "vibe": [
+      "creative",
+      "nostalgic",
+      "chill"
+    ],
+    "budget": "$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "any",
+      "rainy-day"
+    ],
+    "duration": "1-2hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#dc2626",
+        "label": "Start",
+        "text": "Visit a local record store and challenge each other to find one album the other person has never heard. Browse different genres and eras."
+      },
+      {
+        "icon": "headphones",
+        "color": "#b91c1c",
+        "label": "Then",
+        "text": "Use the listening station to preview your finds together, or grab coffee nearby to share thoughts. Discuss what drew you to each selection."
+      },
+      {
+        "icon": "heart",
+        "color": "#991b1b",
+        "label": "End",
+        "text": "Buy one album to listen to together at home later. Make it a tradition to build a shared collection of discovery nights."
+      }
+    ],
+    "conversation": "What song or album defined a specific chapter of your life, and what was happening then?",
+    "likes": 4892,
+    "createdAt": "2026-02-01T16:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Record Store Day",
+        "url": "https://recordstoreday.com/Stores",
+        "icon": "map"
+      },
+      {
+        "label": "Vinyl Collecting Guide",
+        "url": "https://www.discogs.com/",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-and-wine-marathon",
+    "name": "Puzzle & Wine Marathon",
+    "heroIcon": "puzzle",
+    "heroColor": "#7c3aed",
+    "vibe": [
+      "chill",
+      "cozy",
+      "wholesome"
+    ],
+    "budget": "$",
+    "setting": "home",
+    "type": [
+      "regular",
+      "rainy-day"
+    ],
+    "season": [
+      "any",
+      "winter"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "shopping-bag",
+        "color": "#7c3aed",
+        "label": "Start",
+        "text": "Choose a challenging 1000+ piece puzzle with a beautiful image that interests you both. Pour wine or make hot cocoa and set up at a comfortable table."
+      },
+      {
+        "icon": "puzzle",
+        "color": "#6d28d9",
+        "label": "Then",
+        "text": "Work together finding edges and matching pieces while chatting, playing background music, or listening to a podcast. Take breaks for snacks and stretching."
+      },
+      {
+        "icon": "camera",
+        "color": "#5b21b6",
+        "label": "End",
+        "text": "Place the final piece together and take a photo of your completed masterpiece. Consider framing it or gluing it as a memento of the evening."
+      }
+    ],
+    "conversation": "What's something you've built or created that you're really proud of, even if it seemed small?",
+    "likes": 5123,
+    "createdAt": "2026-01-15T20:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Puzzle Recommendations",
+        "url": "https://www.jigsawjunkie.com/",
+        "icon": "star"
+      }
+    ]
+  },
+  {
+    "id": "street-art-photography-walk",
+    "name": "Street Art Safari",
+    "heroIcon": "camera",
+    "heroColor": "#06b6d4",
+    "vibe": [
+      "creative",
+      "adventurous",
+      "quirky"
+    ],
+    "budget": "free",
+    "setting": "city",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "any",
+      "spring"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#06b6d4",
+        "label": "Start",
+        "text": "Research murals and street art in a neighborhood you haven't explored. Bring phones or cameras and set a theme like 'most colorful' or 'best hidden gem'."
+      },
+      {
+        "icon": "camera",
+        "color": "#0891b2",
+        "label": "Then",
+        "text": "Hunt for stunning pieces and take creative photos with each other posing with the art. Challenge each other to find the most unique or meaningful piece."
+      },
+      {
+        "icon": "coffee",
+        "color": "#0e7490",
+        "label": "End",
+        "text": "Grab coffee and review your photos, voting on favorites. Research the artists behind the pieces you loved most and learn their stories."
+      }
+    ],
+    "conversation": "If you could commission a mural about your life so far, what scene or symbols would it feature?",
+    "likes": 6234,
+    "createdAt": "2026-01-20T11:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Street Art Cities",
+        "url": "https://streetartcities.com/",
+        "icon": "map"
+      },
+      {
+        "label": "Instagram Photography Tips",
+        "url": "https://www.instagram.com/create/guides/",
+        "icon": "camera"
+      }
+    ]
+  },
+  {
+    "id": "backyard-camping-adventure",
+    "name": "Backyard Basecamp",
+    "heroIcon": "tent",
+    "heroColor": "#059669",
+    "vibe": [
+      "adventurous",
+      "cozy",
+      "wholesome"
+    ],
+    "budget": "$",
+    "setting": "outdoor",
+    "type": [
+      "regular"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "full-day",
+    "steps": [
+      {
+        "icon": "tent",
+        "color": "#059669",
+        "label": "Start",
+        "text": "Set up a tent in your backyard or a friend's, complete with sleeping bags, lanterns, and camping chairs. Stock up on s'more supplies and easy camping food."
+      },
+      {
+        "icon": "flame",
+        "color": "#047857",
+        "label": "Then",
+        "text": "Build a small fire pit (or use a portable one) and cook dinner over the flames. Tell ghost stories, play card games, and stargaze without the long drive."
+      },
+      {
+        "icon": "coffee",
+        "color": "#065f46",
+        "label": "End",
+        "text": "Sleep under the stars and wake up to make campfire coffee and breakfast. Enjoy the camping experience without leaving the comfort of home nearby."
+      }
+    ],
+    "conversation": "What's your most memorable camping story, or if you've never been, what's your biggest camping fantasy or fear?",
+    "likes": 5567,
+    "createdAt": "2026-01-25T15:45:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Backyard Camping Guide",
+        "url": "https://www.rei.com/learn/expert-advice/backyard-camping.html",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "id": "thrift-store-style-challenge-2",
+    "name": "Thrift Store Roulette II",
+    "heroIcon": "sparkles",
+    "heroColor": "#ec4899",
+    "vibe": [
+      "quirky",
+      "funny",
+      "creative"
+    ],
+    "budget": "$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "double-date"
+    ],
+    "season": [
+      "any",
+      "rainy-day"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#ec4899",
+        "label": "Start",
+        "text": "Hit a thrift store with $15 each and 20 minutes to find the wildest complete outfit for your partner. Look for bold patterns, vintage pieces, and accessories."
+      },
+      {
+        "icon": "sparkles",
+        "color": "#db2777",
+        "label": "Then",
+        "text": "Try on your selected outfits and do a full fashion show with dramatic runway walks. Take ridiculous photos together in your thrifted glory."
+      },
+      {
+        "icon": "camera",
+        "color": "#be185d",
+        "label": "End",
+        "text": "Grab coffee or lunch while still wearing your outfits if you dare. If you actually love something, buy it and make it a treasured memory piece."
+      }
+    ],
+    "conversation": "What's the most ridiculous outfit you wore as a kid that you thought was absolutely amazing at the time?",
+    "likes": 8234,
+    "createdAt": "2026-02-05T13:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Best Thrift Stores",
+        "url": "https://www.goodwill.org/locator/",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "botanical-garden-sketch-session",
+    "name": "Garden Sketch Session",
+    "heroIcon": "flower",
+    "heroColor": "#ec4899",
+    "vibe": [
+      "creative",
+      "chill",
+      "wholesome"
+    ],
+    "budget": "$",
+    "setting": "nature",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "shopping-bag",
+        "color": "#ec4899",
+        "label": "Start",
+        "text": "Visit a botanical garden with sketchbooks and colored pencils or watercolors. Choose a beautiful spot to set up and get comfortable."
+      },
+      {
+        "icon": "palette",
+        "color": "#db2777",
+        "label": "Then",
+        "text": "Spend time drawing or painting your favorite plants and flowers, no artistic skill required. Focus on the meditative process rather than perfect results."
+      },
+      {
+        "icon": "gift",
+        "color": "#be185d",
+        "label": "End",
+        "text": "Exchange your artwork and write a sweet note on the back about why you picked that subject. Frame them or keep them as bookmarks to remember the day."
+      }
+    ],
+    "conversation": "If you were a plant, what kind would you be and where would you want to grow?",
+    "likes": 4567,
+    "createdAt": "2026-01-30T12:20:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Find Botanical Gardens",
+        "url": "https://www.publicgardens.org/",
+        "icon": "map"
+      },
+      {
+        "label": "Beginner Sketching Tips",
+        "url": "https://www.skillshare.com/browse/sketching",
+        "icon": "book-open"
+      }
+    ]
+  },
+  {
+    "id": "sunset-picnic-overlook",
+    "name": "Golden Hour Picnic",
+    "heroIcon": "sun",
+    "heroColor": "#f59e0b",
+    "vibe": [
+      "romantic",
+      "chill",
+      "wholesome"
+    ],
+    "budget": "$",
+    "setting": "outdoor",
+    "type": [
+      "regular",
+      "anniversary"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "utensils",
+        "color": "#f59e0b",
+        "label": "Start",
+        "text": "Pack a basket with cheese, crackers, fruit, and your favorite beverages. Find a scenic overlook or park with western views and arrive an hour before sunset."
+      },
+      {
+        "icon": "sun",
+        "color": "#f97316",
+        "label": "Then",
+        "text": "Spread out a blanket and enjoy your meal as the sun begins its descent. Watch how the light transforms everything around you into warm golden tones."
+      },
+      {
+        "icon": "camera",
+        "color": "#ea580c",
+        "label": "End",
+        "text": "Take golden hour photos of each other and stay to see the first stars appear. Share your favorite moments from recent weeks as the sky turns purple."
+      }
+    ],
+    "conversation": "What's a moment in your life that felt absolutely perfect, even if it was simple?",
+    "likes": 7845,
+    "createdAt": "2026-02-08T17:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Picnic Packing List",
+        "url": "https://www.rei.com/learn/expert-advice/picnic.html",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "id": "movie-marathon-fort",
+    "name": "Blanket Fort Cinema",
+    "heroIcon": "film",
+    "heroColor": "#8b5cf6",
+    "vibe": [
+      "cozy",
+      "nostalgic",
+      "wholesome"
+    ],
+    "budget": "$",
+    "setting": "home",
+    "type": [
+      "regular",
+      "rainy-day"
+    ],
+    "season": [
+      "any",
+      "winter"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "home",
+        "color": "#8b5cf6",
+        "label": "Start",
+        "text": "Build an elaborate blanket fort in your living room using chairs, cushions, and every blanket you own. String up fairy lights inside for ambiance."
+      },
+      {
+        "icon": "film",
+        "color": "#7c3aed",
+        "label": "Then",
+        "text": "Queue up a movie trilogy or themed double feature with plenty of snacks and drinks. Settle in and enjoy being kids again in your cozy creation."
+      },
+      {
+        "icon": "pizza",
+        "color": "#6d28d9",
+        "label": "End",
+        "text": "Order delivery midway through and eat it fort-style. Rate the movies and declare whether the fort can stay up for the rest of the week."
+      }
+    ],
+    "conversation": "What movie or TV show universe would you most want to live in for a week?",
+    "likes": 6723,
+    "createdAt": "2026-01-17T19:45:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Fort Building Guide",
+        "url": "https://www.apartmenttherapy.com/how-to-build-a-blanket-fort-36738622",
+        "icon": "lightbulb"
+      }
+    ]
+  },
+  {
+    "id": "late-night-diner-run",
+    "name": "Midnight Diner Run",
+    "heroIcon": "coffee",
+    "heroColor": "#fbbf24",
+    "vibe": [
+      "spontaneous",
+      "nostalgic",
+      "quirky"
+    ],
+    "budget": "$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "1-2hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#fbbf24",
+        "label": "Start",
+        "text": "Around 10pm or later, spontaneously decide to hunt down a classic 24-hour diner or late-night spot. Go in your comfy clothes and embrace the randomness."
+      },
+      {
+        "icon": "coffee",
+        "color": "#f59e0b",
+        "label": "Then",
+        "text": "Order breakfast food at midnight, coffee, and a slice of pie to share. People-watch and soak in the unique energy of late-night diners."
+      },
+      {
+        "icon": "heart",
+        "color": "#f97316",
+        "label": "End",
+        "text": "Take the long way home and drive with the windows down, sharing random thoughts. Let the spontaneity of the night lead to deeper conversations."
+      }
+    ],
+    "conversation": "What's the most spontaneous thing you've ever done on a whim that turned out amazing?",
+    "likes": 5234,
+    "createdAt": "2026-02-02T23:15:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Best Diners Directory",
+        "url": "https://www.roadfood.com/",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "bookstore-scavenger-hunt",
+    "name": "Literary Treasure Hunt",
+    "heroIcon": "book",
+    "heroColor": "#0891b2",
+    "vibe": [
+      "intellectual",
+      "quirky",
+      "creative"
+    ],
+    "budget": "$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "any",
+      "rainy-day"
+    ],
+    "duration": "1-2hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#0891b2",
+        "label": "Start",
+        "text": "Create scavenger hunt lists for each other before arriving at an independent bookstore. Include challenges like 'find a book with your birth year' or 'best obscure title'."
+      },
+      {
+        "icon": "book",
+        "color": "#0e7490",
+        "label": "Then",
+        "text": "Split up and hunt for items on your lists, taking photos as evidence. Browse different sections and discover unexpected gems along the way."
+      },
+      {
+        "icon": "coffee",
+        "color": "#155e75",
+        "label": "End",
+        "text": "Meet at the caf\u00e9 inside and share your finds over drinks. Buy one book that surprised you and swap reading it first."
+      }
+    ],
+    "conversation": "What book have you reread the most times, and what keeps drawing you back to it?",
+    "likes": 4890,
+    "createdAt": "2026-01-23T14:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Independent Bookstores",
+        "url": "https://www.indiebound.org/indie-bookstore-finder",
+        "icon": "map"
+      }
+    ]
+  },
+  {
+    "id": "waterfall-hiking-expedition",
+    "name": "Waterfall Quest",
+    "heroIcon": "compass",
+    "heroColor": "#0ea5e9",
+    "vibe": [
+      "adventurous",
+      "active",
+      "romantic"
+    ],
+    "budget": "free",
+    "setting": "nature",
+    "type": [
+      "regular"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "half-day",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#0ea5e9",
+        "label": "Start",
+        "text": "Research a scenic waterfall hike within driving distance and pack water, snacks, and swimwear. Start early to beat crowds and heat."
+      },
+      {
+        "icon": "footprints",
+        "color": "#0284c7",
+        "label": "Then",
+        "text": "Hike together to the waterfall, taking breaks to enjoy viewpoints and nature sounds. Once there, cool off in the water if it's safe and refreshing."
+      },
+      {
+        "icon": "camera",
+        "color": "#0369a1",
+        "label": "End",
+        "text": "Find a spot behind or beside the falls for photos and quiet reflection. Pack out your trash and celebrate with a post-hike meal nearby."
+      }
+    ],
+    "conversation": "When do you feel most connected to nature, and how does it change your perspective?",
+    "likes": 7123,
+    "createdAt": "2026-02-06T09:30:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "AllTrails Waterfall Hikes",
+        "url": "https://www.alltrails.com/",
+        "icon": "compass"
+      },
+      {
+        "label": "Hiking Safety Guide",
+        "url": "https://www.rei.com/learn/expert-advice/hiking-for-beginners.html",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "id": "pasta-making-from-scratch",
+    "name": "Fresh Pasta Workshop",
+    "heroIcon": "utensils",
+    "heroColor": "#eab308",
+    "vibe": [
+      "creative",
+      "wholesome",
+      "luxe"
+    ],
+    "budget": "$$",
+    "setting": "home",
+    "type": [
+      "regular",
+      "anniversary"
+    ],
+    "season": [
+      "any",
+      "winter"
+    ],
+    "duration": "3-4hrs",
+    "steps": [
+      {
+        "icon": "shopping-bag",
+        "color": "#eab308",
+        "label": "Start",
+        "text": "Gather flour, eggs, olive oil, and your chosen filling ingredients like ricotta and spinach. Clear counter space and find a rolling pin or pasta machine."
+      },
+      {
+        "icon": "utensils",
+        "color": "#ca8a04",
+        "label": "Then",
+        "text": "Make dough from scratch, kneading it together while flour flies everywhere. Roll, cut, and shape into your chosen pasta style\u2014fettuccine, ravioli, or get creative."
+      },
+      {
+        "icon": "wine",
+        "color": "#a16207",
+        "label": "End",
+        "text": "Cook your fresh pasta and serve with a simple sauce, wine, and candlelight. Taste the difference homemade makes and toast to your culinary teamwork."
+      }
+    ],
+    "conversation": "What's a skill you've always wanted to master, and what's stopping you from starting?",
+    "likes": 6234,
+    "createdAt": "2026-01-27T18:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Fresh Pasta Guide",
+        "url": "https://www.seriouseats.com/how-to-make-fresh-pasta",
+        "icon": "book-open"
+      }
+    ]
+  },
+  {
+    "id": "comedy-club-double-date",
+    "name": "Laugh Track Night",
+    "heroIcon": "ticket",
+    "heroColor": "#d946ef",
+    "vibe": [
+      "funny",
+      "spontaneous",
+      "wholesome"
+    ],
+    "budget": "$$",
+    "setting": "city",
+    "type": [
+      "double-date",
+      "regular"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "ticket",
+        "color": "#d946ef",
+        "label": "Start",
+        "text": "Book tickets to a local comedy club with another couple, preferably an open mic or improv show. Grab dinner nearby beforehand and arrive early for good seats."
+      },
+      {
+        "icon": "sparkles",
+        "color": "#c026d3",
+        "label": "Then",
+        "text": "Enjoy the show together, laughing until your faces hurt. Embrace the unpredictable nature of live comedy and the shared reactions."
+      },
+      {
+        "icon": "coffee",
+        "color": "#a21caf",
+        "label": "End",
+        "text": "Debrief afterward over drinks, quoting the best jokes and rating the performers. Make it a regular tradition to support local comedy together."
+      }
+    ],
+    "conversation": "What's the hardest you've ever laughed, and what made it so funny?",
+    "likes": 5678,
+    "createdAt": "2026-02-04T20:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Find Local Comedy Shows",
+        "url": "https://www.eventbrite.com/d/online/comedy/",
+        "icon": "ticket"
+      }
+    ]
+  },
+  {
+    "id": "bike-trail-exploration",
+    "name": "Trail Blazer Ride",
+    "heroIcon": "bike",
+    "heroColor": "#10b981",
+    "vibe": [
+      "active",
+      "adventurous",
+      "wholesome"
+    ],
+    "budget": "free",
+    "setting": "outdoor",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "duration": "2-3hrs",
+    "steps": [
+      {
+        "icon": "map",
+        "color": "#10b981",
+        "label": "Start",
+        "text": "Find a local bike trail or rail-trail you've never explored and pack water and snacks. Check your bikes and head out mid-morning or late afternoon."
+      },
+      {
+        "icon": "bike",
+        "color": "#059669",
+        "label": "Then",
+        "text": "Ride at a comfortable pace, stopping at interesting spots along the way. Challenge each other to a friendly race on straightaways or take it slow and scenic."
+      },
+      {
+        "icon": "coffee",
+        "color": "#047857",
+        "label": "End",
+        "text": "Find a caf\u00e9 or ice cream shop at the trail's end to refuel. Plan your next biking adventure while enjoying the post-exercise endorphins."
+      }
+    ],
+    "conversation": "Where would you go if you could bike anywhere in the world for a week?",
+    "likes": 4567,
+    "createdAt": "2026-01-31T10:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "TrailLink Bike Trails",
+        "url": "https://www.traillink.com/",
+        "icon": "map"
+      },
+      {
+        "label": "Bike Safety Tips",
+        "url": "https://www.rei.com/learn/expert-advice/bike-commuting-basics.html",
+        "icon": "bike"
+      }
+    ]
+  },
+  {
+    "id": "poetry-reading-cafe",
+    "name": "Poetry & Pastries",
+    "heroIcon": "book-open",
+    "heroColor": "#6366f1",
+    "vibe": [
+      "intellectual",
+      "romantic",
+      "chill"
+    ],
+    "budget": "$",
+    "setting": "city",
+    "type": [
+      "regular",
+      "weeknight-quick"
+    ],
+    "season": [
+      "any"
+    ],
+    "duration": "1-2hrs",
+    "steps": [
+      {
+        "icon": "book",
+        "color": "#6366f1",
+        "label": "Start",
+        "text": "Find a cozy caf\u00e9 or attend a poetry open mic night. Bring a poetry book you love or find one at the venue."
+      },
+      {
+        "icon": "book-open",
+        "color": "#4f46e5",
+        "label": "Then",
+        "text": "Take turns reading poems aloud to each other or listening to performers share their work. Choose pieces that resonate or make you think differently."
+      },
+      {
+        "icon": "heart",
+        "color": "#4338ca",
+        "label": "End",
+        "text": "Discuss what the poems meant to each of you and share interpretations. Try writing a short collaborative poem together on a napkin as a keepsake."
+      }
+    ],
+    "conversation": "What's something beautiful you've experienced that you could never quite find the words to describe?",
+    "likes": 3890,
+    "createdAt": "2026-02-07T17:00:00Z",
+    "featured": false,
+    "resources": [
+      {
+        "label": "Poetry Foundation",
+        "url": "https://www.poetryfoundation.org/",
+        "icon": "book"
+      },
+      {
+        "label": "Find Poetry Events",
+        "url": "https://www.eventbrite.com/d/online/poetry/",
+        "icon": "calendar"
+      }
+    ]
+  }
+]
