@@ -17,18 +17,18 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: 'DateNight.cards — Curated Date Ideas That Go Beyond Dinner',
-    template: '%s | datenight.cards',
+    default: 'DateNightPlan — Curated Date Ideas That Go Beyond Dinner',
+    template: '%s | DateNightPlan',
   },
   description:
     'Curated date ideas with a full plan — not just "go to dinner." Browse by vibe, budget, or setting. Each card is a complete evening with a flow.',
   metadataBase: new URL(
     process.env.VERCEL_PROJECT_PRODUCTION_URL
       ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-      : 'https://datenight.cards'
+      : 'https://date-night-plan.com'
   ),
   openGraph: {
-    siteName: 'datenight.cards',
+    siteName: 'DateNightPlan',
     type: 'website',
     locale: 'en_US',
   },

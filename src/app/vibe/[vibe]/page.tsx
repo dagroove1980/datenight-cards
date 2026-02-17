@@ -20,7 +20,7 @@ export async function generateMetadata({
   const v = vibe as Vibe;
 
   return {
-    title: `${vibePageTitles[v]} | datenight.cards`,
+    title: `${vibePageTitles[v]} | DateNightPlan`,
     description: vibeIntros[v].slice(0, 160),
     alternates: { canonical: `/vibe/${v}` },
   };

@@ -20,7 +20,7 @@ export async function generateMetadata({
   const s = setting as Setting;
 
   return {
-    title: `${settingPageTitles[s]} | datenight.cards`,
+    title: `${settingPageTitles[s]} | DateNightPlan`,
     description: settingIntros[s].slice(0, 160),
     alternates: { canonical: `/setting/${s}` },
   };

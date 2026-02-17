@@ -25,8 +25,8 @@ export default function Header({ onSurpriseMe }: HeaderProps) {
       <div className="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-0 shrink-0">
-          <span className="font-heading text-xl font-bold text-[#1A1A1A]">datenight</span>
-          <span className="font-heading text-xl font-bold text-[#E63946]">.cards</span>
+          <span className="font-heading text-xl font-bold text-[#1A1A1A]">DateNight</span>
+          <span className="font-heading text-xl font-bold text-[#E63946]">Plan</span>
         </Link>
 
         {/* Desktop nav */}

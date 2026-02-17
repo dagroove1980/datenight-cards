@@ -5,7 +5,7 @@ import Footer from '@/components/Footer';
 export const metadata: Metadata = {
   title: 'About',
   description:
-    'datenight.cards is a curated collection of date plans — not just ideas. Each card is a complete evening with a flow.',
+    'DateNightPlan is a curated collection of date plans — not just ideas. Each card is a complete evening with a flow.',
 };
 
 export default function AboutPage() {
@@ -14,7 +14,7 @@ export default function AboutPage() {
       <Header />
       <main className="max-w-2xl mx-auto px-4 pt-12 pb-20">
         <h1 className="font-heading text-3xl font-bold text-[#1A1A1A] mb-6">
-          About datenight.cards
+          About DateNightPlan
         </h1>
 
         <div className="space-y-6 text-[#444444] leading-relaxed">
@@ -53,7 +53,7 @@ export default function AboutPage() {
           <p className="text-sm text-[#999999]">
             Made with care by [placeholder].
             <br />
-            Contact: hello@datenight.cards
+            Contact: hello@date-night-plan.com
           </p>
         </div>
       </main>

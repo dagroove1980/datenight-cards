@@ -33,7 +33,7 @@ export default async function OgImage({
             fontFamily: 'sans-serif',
           }}
         >
-          datenight.cards
+          DateNightPlan
         </div>
       ),
       size
@@ -59,10 +59,10 @@ export default async function OgImage({
         {/* Top: brand */}
         <div style={{ display: 'flex', alignItems: 'center', marginBottom: 40 }}>
           <span style={{ fontSize: 24, fontWeight: 700, color: '#1A1A1A' }}>
-            datenight
+            DateNight
           </span>
           <span style={{ fontSize: 24, fontWeight: 700, color: '#E63946' }}>
-            .cards
+            Plan
           </span>
         </div>
 

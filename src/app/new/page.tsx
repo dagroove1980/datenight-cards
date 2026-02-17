@@ -6,7 +6,7 @@ import DateGrid from '@/components/DateGrid';
 
 export const metadata: Metadata = {
   title: 'New Date Ideas',
-  description: 'The newest curated date ideas on datenight.cards — freshly added plans for your next evening together.',
+  description: 'The newest curated date ideas on DateNightPlan — freshly added plans for your next evening together.',
   alternates: { canonical: '/new' },
 };
 

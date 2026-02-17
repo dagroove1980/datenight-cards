@@ -4,7 +4,7 @@ import { ALL_VIBES, ALL_SETTINGS, ALL_BUDGETS, ALL_TYPES, ALL_SEASONS } from '@/
 
 const BASE_URL = process.env.VERCEL_PROJECT_PRODUCTION_URL
   ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-  : 'https://datenight.cards';
+  : 'https://date-night-plan.com';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date().toISOString();

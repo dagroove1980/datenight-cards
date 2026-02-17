@@ -20,7 +20,7 @@ export async function generateMetadata({
   const s = season as Season;
 
   return {
-    title: `${seasonPageTitles[s]} | datenight.cards`,
+    title: `${seasonPageTitles[s]} | DateNightPlan`,
     description: seasonIntros[s].slice(0, 160),
     alternates: { canonical: `/season/${s}` },
   };

@@ -1,7 +1,9 @@
 import type { Vibe, Budget, Setting, DateType, Season } from '@/types/date';
 
-export const SITE_NAME = 'datenight.cards';
-export const SITE_URL = 'https://datenight.cards';
+export const SITE_NAME = 'DateNightPlan';
+export const SITE_URL = process.env.VERCEL_PROJECT_PRODUCTION_URL
+  ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
+  : 'https://date-night-plan.com';
 export const SITE_DESCRIPTION =
   'Curated date ideas with a full plan — not just "go to dinner." Browse by vibe, budget, or setting.';
 export const DATES_PER_PAGE = 24;

@@ -20,7 +20,7 @@ export async function generateMetadata({
   const b = budget as Budget;
 
   return {
-    title: `${budgetPageTitles[b]} | datenight.cards`,
+    title: `${budgetPageTitles[b]} | DateNightPlan`,
     description: budgetIntros[b].slice(0, 160),
     alternates: { canonical: `/budget/${b}` },
   };

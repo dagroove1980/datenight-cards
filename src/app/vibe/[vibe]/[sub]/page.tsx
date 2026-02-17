@@ -59,7 +59,7 @@ export async function generateMetadata({
   const description = getComboIntro(combo.vibe, combo.setting, combo.budget);
 
   return {
-    title: `${title} | datenight.cards`,
+    title: `${title} | DateNightPlan`,
     description: description.slice(0, 160),
     alternates: { canonical: `/vibe/${vibe}/${sub}` },
   };

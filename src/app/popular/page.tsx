@@ -6,7 +6,7 @@ import DateGrid from '@/components/DateGrid';
 
 export const metadata: Metadata = {
   title: 'Popular Date Ideas',
-  description: 'The most popular curated date ideas on datenight.cards — browse by likes and find the community favorites.',
+  description: 'The most popular curated date ideas on DateNightPlan — browse by likes and find the community favorites.',
   alternates: { canonical: '/popular' },
 };
 

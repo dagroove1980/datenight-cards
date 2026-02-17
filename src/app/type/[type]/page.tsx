@@ -20,7 +20,7 @@ export async function generateMetadata({
   const t = type as DateType;
 
   return {
-    title: `${typePageTitles[t]} | datenight.cards`,
+    title: `${typePageTitles[t]} | DateNightPlan`,
     description: typeIntros[t].slice(0, 160),
     alternates: { canonical: `/type/${t}` },
   };
