@@ -8,7 +8,6 @@ import { filterDates, sortDates, getRandomDate } from '@/lib/dates';
 import { ALL_VIBES, ALL_SETTINGS, ALL_TYPES, ALL_BUDGETS, vibeLabels, settingLabels, typeLabels, budgetLabels, vibeIcons, settingIcons } from '@/lib/constants';
 import { vibeColors, budgetColors, settingColors } from '@/lib/colors';
 import { getIcon } from '@/lib/icons';
-import FilterBar from './FilterBar';
 import SortTabs from './SortTabs';
 import DateGrid from './DateGrid';
 import SurpriseModal from './SurpriseModal';
@@ -161,11 +160,6 @@ function HomepageInner({ allDates }: HomepageContentProps) {
           {/* Ad Slot: Homepage Leaderboard */}
           <div data-ad-slot="homepage-leaderboard" aria-hidden="true" />
         </div>
-
-        {/* Filters */}
-        <section className="mb-6">
-          <FilterBar />
-        </section>
 
         {/* Sort */}
         <section className="mb-8">
