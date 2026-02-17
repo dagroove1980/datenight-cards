@@ -83,6 +83,24 @@ export const settingIcons: Record<Setting, string> = {
   nature: 'trees',
 };
 
+export const vibeIcons: Record<Vibe, string> = {
+  romantic: 'heart',
+  adventurous: 'compass',
+  chill: 'coffee',
+  creative: 'palette',
+  funny: 'laugh',
+  intellectual: 'book',
+  spontaneous: 'zap',
+  nostalgic: 'camera',
+  cozy: 'flame',
+  active: 'bike',
+  luxe: 'gem',
+  quirky: 'puzzle',
+  wholesome: 'sun',
+  sensual: 'moon',
+  competitive: 'trophy',
+};
+
 // SEO page titles
 export const vibePageTitles: Record<Vibe, string> = {
   romantic: 'Romantic Date Ideas',

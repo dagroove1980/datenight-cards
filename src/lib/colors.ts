@@ -1,4 +1,4 @@
-import type { Vibe, Budget } from '@/types/date';
+import type { Vibe, Budget, Setting } from '@/types/date';
 
 export const vibeColors: Record<Vibe, { bg: string; text: string }> = {
   romantic: { bg: '#FFF0F3', text: '#C2185B' },
@@ -23,6 +23,13 @@ export const budgetColors: Record<Budget, { bg: string; text: string }> = {
   $: { bg: '#FFF8E1', text: '#F57F17' },
   $$: { bg: '#FFF3E0', text: '#E65100' },
   $$$: { bg: '#FFEBEE', text: '#C62828' },
+};
+
+export const settingColors: Record<Setting, { bg: string; text: string }> = {
+  city: { bg: '#E3F2FD', text: '#1565C0' },
+  home: { bg: '#FFF8E1', text: '#F57F17' },
+  outdoor: { bg: '#E8F5E9', text: '#2E7D32' },
+  nature: { bg: '#E0F2F1', text: '#00695C' },
 };
 
 export function hexToRgba(hex: string, opacity: number): string {
